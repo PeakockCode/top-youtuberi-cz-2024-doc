@@ -1,5 +1,4 @@
-# CZECH TOP YOUTUBERS 2024
-
+# NEJLEPŠÍ ČEŠTÍ YOUTUBEŘI 2024
 
 ![YouTube image](assets/images/youTubers.jpg)
 
