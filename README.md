@@ -2,7 +2,7 @@
 
 ![YouTube image](assets/images/youTubers.jpg)
 
-## Table of Contents
+## Obsah
 
 - [Intention](#intention)
   - [Goal](#goal)
