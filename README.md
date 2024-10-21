@@ -605,22 +605,21 @@ V tomto scénáři se zaměříme na analýzu youtuberů s nejvyšším počtem 
 
 <img src="assets/images/sql/analysis/total_views_analysis3.png" alt="3. scénář - výstup" style="border: 0.5px solid black;"/>  
 
-## Conclusion
+## Závěr
 
-In this section, we will summarize the main information from our analysis and, based on these insights, provide recommendations for the marketing department.
+V této části shrneme hlavní informace z naší analýzy a na základě těchto poznatků poskytneme doporučení pro marketingové oddělení.
 
-### Findings
+### Zjištění
 
-1) Regarding the YouTubers (YouTube channels) with the most subscribers, we found out:
+1) Co se týče YouTuberů (YouTube kanálů) s největším počtem odběratelů, zjistili jsme:
    
-  - Silvie Mahdal, Puzzle Guy and  MenT are the once with the highest number of subscribers in the Czech Republic in 2024.
-  - All 10 YouTubers (YouTube channels) with the most subscribers have over 1 million subscribers.
-  - In the 1st scenario (collaboration based on product placement), the most suitable YouTuber is Mr. Michal, with a
-    potential net profit of over 17.7 million CZK, followed by Silvie Mahdal with a potential net profit of over 13.4           million CZK, and Puzzle Guy in 3rd place with a potential net profit of 6.5 million CZK.
+  - Silvie Mahdal, Puzzle Guy a MenT jsou ti, kteří mají největší počet odběratelů v České republice v roce 2024.
+  - Všech 10 youtuberů (kanálů) s nejvíce odběrateli má více než 1 milion odběratelů.
+  - V 1. scénáři (spolupráce založená na product placement) je nejvhodnějším YouTuberem Mr. Michal s potenciálním čistým ziskem přes 17,7 milionu Kč, následovaný je Silvií Mahdal s potenciálním čistým ziskem přes 13,4 milionu Kč a na 3. místě je Puzzle Guye s potenciálním čistým ziskem 6,5 milionu Kč.
 
 2) Focusing on the YouTubers (YouTube channels) with the most uploaded videos, we learned:
    
-  - The YouTubers (YouTube channels) that posted the most content (including Radio Free Europe/Radio Liberty with               9,649 videos uploaded) did not suceed in the 2nd Scenario.
+  - The YouTubers (YouTube channels) that posted the most content (including Radio Free Europe/Radio Liberty with 9,649 videos uploaded) did not suceed in the 2nd Scenario.
   - The only YouTuber (YouTube channel) able to generate profit in the 2nd Scenario is MenT, with a potential net profit         600,000.00 CZK. All others show a potential loss.
   - This Scenario appears to be less productive and much riskier compared to the others.
 
