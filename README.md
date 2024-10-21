@@ -610,11 +610,11 @@ V této části shrneme hlavní informace z naší analýzy a na základě těch
 
 ### Zjištění
 
-1) Co se týče YouTuberů (YouTube kanálů) s největším počtem odběratelů, zjistili jsme, že:
+1) Co se týče youtuberů (YouTube kanálů) s největším počtem odběratelů, zjistili jsme, že:
    
   - Silvie Mahdal, Puzzle Guy a MenT jsou ti, kteří mají největší počet odběratelů v České republice v roce 2024.
   - Všech 10 youtuberů (kanálů) s nejvíce odběrateli má více než 1 milion odběratelů.
-  - V 1. scénáři (spolupráce založená na product placement) je nejvhodnějším YouTuberem Mr. Michal s potenciálním čistým ziskem přes 17,7 milionu Kč, následovaný je Silvií Mahdal s potenciálním čistým ziskem přes 13,4 milionu Kč a na 3. místě je Puzzle Guye s potenciálním čistým ziskem 6,5 milionu Kč.
+  - V 1. scénáři (spolupráce založená na product placement) je nejvhodnějším youtuberem Mr. Michal s potenciálním čistým ziskem přes 17,7 milionu Kč, následovaný je Silvií Mahdal s potenciálním čistým ziskem přes 13,4 milionu Kč a na 3. místě je Puzzle Guye s potenciálním čistým ziskem 6,5 milionu Kč.
 
 2) Zaměřením se na youtubery (YouTube kanály) s nejvíce nahranými videi jsme zjistili, že:
    
@@ -625,9 +625,9 @@ V této části shrneme hlavní informace z naší analýzy a na základě těch
 3) Když jsme se zaměřili na youtubery (YouTube kanály) s nejvyšším počtem zhlédnutí, zjistili jsme, že:
    
   - Puzzle Guy je youtuber s nejvyšším celkovým počtem zhlédnutí. S více než 1,6 miliardy zhlédnutí je daleko vedoucím v této kategorii. Druhý, MenT, má o 697 milionů zhlédnutí méně, s celkovým počtem 910 milionů. Zbývající youtubeři (YouTube kanály) mají mezi 535 miliony a 777 miliony zhlédnutí.
-  - Ve 3. scénáři, kde spolupracujeme s YouTubery (s největším počtem zhlédnutí videí) na základě smlouvy, je nejvhodnějším youtuberem ViralBrothers SHOW s potenciálním čistým ziskem přes 25,6 milionu Kč, následovaný kanálem Štístko a Poupěnka s potenciálním čistým ziskem přes 14 milionů Kč. Na třetím místě je pak Puzzle Guy s potenciálním čistým ziskem přes 6 milionů Kč (tento YouTuber byl také poměrně úspěšný v 1. scénáři).
+  - Ve 3. scénáři, kde spolupracujeme s youtubery (s největším počtem zhlédnutí videí) na základě smlouvy, je nejvhodnějším youtuberem ViralBrothers SHOW s potenciálním čistým ziskem přes 25,6 milionu Kč, následovaný kanálem Štístko a Poupěnka s potenciálním čistým ziskem přes 14 milionů Kč. Na třetím místě je pak Puzzle Guy s potenciálním čistým ziskem přes 6 milionů Kč (tento youtuber byl také poměrně úspěšný v 1. scénáři).
 
-Ve všech kategoriích dominují YouTubeři (YouTube kanály) zaměřující se na zábavu, herní obsah a nebo hudbu. Je to pravděpodobně způsobené pravidelně zveřejňováným obsahem na platformě, díky čemuž si udržují sledující.
+Ve všech kategoriích dominují youtubeři (YouTube kanály) zaměřující se na zábavu, herní obsah a nebo hudbu. Je to pravděpodobně způsobené pravidelně zveřejňovaným obsahem na platformě, díky čemuž si udržují stálé sledující.
 
 ### Doporučení
 
@@ -637,9 +637,9 @@ Ve všech kategoriích dominují YouTubeři (YouTube kanály) zaměřující se 
 
 2) Jak bylo zmíněno dříve, druhý scénář se jeví jako výrazně méně produktivní, což vede k podstatně nižšímu profitu a tím pádem i návratu investic (případně dokonce ke ztrátě). Ve 2. scénáři stojí za zvážení pouze jeden youtuber, MenT, který může vygenerovat potenciální čistý zisk, na rozdíl od ostatních youtuberů. Pokud by se naše společnost zaměřila na herní obsah, existují pravděpodobně lepší alternativy, než je MenT. Jako vhodný kandidát se jeví například SirYakari (i když nebyl součástí tohoto scénáře, ve třetím scénáři si vedl výrazně lépe než MenT). Přestože vydává méně často, SirYakari má v průměru 1 milion zhlédnutí na video a generuje přes 3,1 milionu Kč čistého zisku, čímž se řadí mezi lídry mezi youtubery, kteří se zaměřují na hraní her. V případě zaměření se výhradně na herní obsah stojí ale za zmínku také potřeba další hlubší analýzy, která by zohledňovala faktory jako míra zapojení sledujících, konkrétní obsah herních videí a celková aktivita youtuberů za poslední rok. **S ohledem na všechny uvedené faktory v tomto scénáři nikoho nedoporučujeme.**
 
-3) **ViralBrothers SHOW je nejlepší YouTube kanál pro spolupráci (na základě smlouvy), pokud máme zájem maximalizovat dosah (třetí scénář)**, protože nabízí výrazně vyšší průměrný počet zhlédnutí na video, což vede k nejvyššímu potenciálnímu čistému zisku (25,680,000.00 Kč). Pokud bychom se však specializovali na produkty pro malé děti, stálo by za to zvážit kanál Štístko a Poupěnka (díky jeho specifickému žáměření na tvorbu obsahu pro malé děti), i když má výrazně menší počet odběratelů.
+3) **ViralBrothers SHOW je nejlepší YouTube kanál pro spolupráci (na základě smlouvy), pokud máme zájem maximalizovat dosah (třetí scénář)**, protože nabízí výrazně vyšší průměrný počet zhlédnutí na video, což vede k nejvyššímu potenciálnímu čistému zisku (25,680,000.00 Kč). Pokud bychom se však specializovali na produkty pro malé děti, stálo by za to zvážit kanál Štístko a Poupěnka (díky jeho specifickému zaměření na tvorbu obsahu pro malé děti), i když má výrazně menší počet odběratelů.
 
-4) **Nejlepší YouTubeři pro spolupráci na základě našich zjištění jsou ViralBrothers SHOW a Mr. Michal.** Jsou nejlepší volbou nejen díky žánru, na který se specializují (zábavní obsah), a jež je širší ve srovnání s ostatními vybranými YouTubery, ale mají také poměrně velkou základnu odběratelů. To je pak ve spojení s vysokým potenciálním ziskem indikátor, že jsou skutečně vhodnými kandidáty pro dlouhodobou spolupráci. Pokud hledáme specifický žánr, jako je kreslení nebo řešení hádanek, pak by také Silvie Mahdal, případně Puzzle Guy, mohli být dobrou volbou. Jejich základna odběratelů a míra zapojení jsou nejvyšší, ale jejich obsah je zaměřen na úzké publikum.
+4) **Nejlepší youtubeři pro spolupráci na základě našich zjištění jsou ViralBrothers SHOW a Mr. Michal.** Jsou nejlepší volbou nejen díky žánru, na který se specializují (zábavní obsah), a jež je širší ve srovnání s ostatními vybranými youtubery, ale mají také poměrně velkou základnu odběratelů. To je pak ve spojení s vysokým potenciálním ziskem indikátor, že jsou skutečně vhodnými kandidáty pro dlouhodobou spolupráci. Pokud hledáme specifický žánr, jako je kreslení nebo řešení hádanek, pak by také Silvie Mahdal, případně Puzzle Guy, mohli být dobrou volbou. Jejich základna odběratelů a míra zapojení jsou nejvyšší, ale jejich obsah je zaměřen na úzké publikum.
 
 #### Možný/potenciální zisk  
 
@@ -653,13 +653,13 @@ Ve všech kategoriích dominují YouTubeři (YouTube kanály) zaměřující se 
 
 Na základě této analýzy (vycházející z veřejně dostupných informací) je nejlepší YouTube kanál pro dlouhodobou spolupráci na propagaci našeho produktu ViralBrothers SHOW.
 
-Prodiskutujeme možnosti s naším marketingovým oddělením, abychom si vzájemně potvrdili očekávání ohledně kampaně. Je důležité ověřit, zda jsou splněny všechny požadavky klienta, v našem případě marketingového oddělení. Například se může stát, že se očekávání změnila, cílíme nově na konkrétnější publikum, nebo že zisk již není naší hlavní prioritou. Na základě toho můžeme doporučení přehodnotit, případně pokračovat v jednání o možné spolupraci s kanálem ViralBrothers SHOW nebo youtuberem Mr. Michal.
+Prodiskutujeme možnosti s naším marketingovým oddělením, abychom si vzájemně potvrdili očekávání ohledně kampaně. Je důležité ověřit, zda jsou splněny všechny požadavky klienta, v našem případě marketingového oddělení. Například se může stát, že se očekávání změnila, cílíme nově na konkrétnější publikum, nebo že zisk již není naší hlavní prioritou. Na základě toho můžeme doporučení přehodnotit, případně pokračovat v jednání o možné spolupráci s kanálem ViralBrothers SHOW nebo youtuberem Mr. Michal.
 
 Jaké další kroky bychom měli podniknout k realizaci kampaně?
 
-- Navážeme spojení s týmy okolo Youtube kanálů ViralBrothers SHOW a/nebo Mr. Michal.
+- Navážeme spojení s týmy okolo YouTube kanálů ViralBrothers SHOW a/nebo Mr. Michal.
 - Vyjednáme smlouvu/y pohybující se v rámci rozpočtu marketingové kampaně.
-- Spustíme kampaň/ně a budeme sledovat její/ich výkon ve vztahu k našim stanoveným KPI.
+- Spustíme kampaň/ně a budeme sledovat její/jejich výkon ve vztahu k našim stanoveným KPI.
 - Vyhodnotíme výsledky kampaně/í a případně kampaň/ně přehodnotíme na základě zpětné vazby od zákazníků nebo našeho publika.
 - 
 #### Závěrečné poznatky
@@ -667,7 +667,7 @@ Jaké další kroky bychom měli podniknout k realizaci kampaně?
 **Jaké kroky bychom měli podniknout před skutečným rozhodnutím (a zahájením implementace marketingové strategie) a proč věříme, že jsou důležité?**
 
 Měli bychom se zaměřit na hlubší analýzu?  
-Vzhledem ke všem informacím, které máme k dispozici, je jasné, že pro takto komplexní úkol nejsou tyto informace dostačující. Proto bychom měli provést minimálně další analýzu obou zmíněných kanálů (případně, pakliže to dovoluje náš rozpočet, všech zůčastněných kanálů). Zvláště bychom se měli zaměřit na následující faktory:
+Vzhledem ke všem informacím, které máme k dispozici, je jasné, že pro takto komplexní úkol nejsou tyto informace dostačující. Proto bychom měli provést minimálně další analýzu obou zmíněných kanálů (případně, pakliže to dovoluje náš rozpočet, všech zúčastněných kanálů). Zvláště bychom se měli zaměřit na následující faktory:
 
 - **Míra zapojení:** Tato metrika měří nejen, kolik sledujících sleduje videa, ale také kolik se jich aktivně zapojuje do interakce prostřednictvím komentářů, lajků či sdílení. To nám pomůže zjistit, jak angažované je publikum sledovaných kanálů. Z dostupných informací víme, že míra zapojení u kanálu ViralBrothers SHOW je 2,13 %, zatímco u kanálu Mr. Michal je 3,32 %. Tato čísla jsem však pro hlubší analýzu nepoužil, protože pocházejí z jiného zdroje než data ostatní. Ačkoliv bylo ověřeno, že by tato data měla pocházet ze stejného období, nemůžeme to s jistotou tvrdit, a proto byly tyto údaje použity spíše jako doplňující reference a také pro vizualizaci v dashboardu.  
 
