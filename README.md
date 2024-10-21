@@ -550,7 +550,6 @@ Cílem tohoto scénáře je vyhodnotit rentabilitu video serie, kdy bychom prost
   
 #### 3) Scénář: Spolupráce s youtubery (YouTube kanály) s nejvyšším počtem zhlédnutí
 
-In this scenario, we aim to analyze YouTubers with the highest view counts. Our focus will be on evaluating the profitability of influencer marketing (with a 2.5 to 3-month contract) through collaborations with these YouTubers. To achieve this, we will select the three most suitable YouTubers (YouTube channels) for our campaign.
 V tomto scénáři se zaměříme na analýzu youtuberů s nejvyšším počtem zhlédnutí. Naším cílem bude vyhodnotit rentabilitu influencer marketingu prostřednictvím spolupráce s youtubery (pod 2,5 až 3 měsíční smlouvou). Abychom toho dosáhli, vybereme tři nejvhodnější youtubery (YouTube kanály) pro 3. scénář. 
 
 *Proměnné kampaně ve 3. scénáři* 
