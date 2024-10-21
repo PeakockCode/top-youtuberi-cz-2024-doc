@@ -4,8 +4,8 @@
 
 ## Obsah
 
-- [Účel projektu](#ucel-projektu)
-  - [Cíl](#cil)
+- [Účel projektu](#účel-projektu)
+  - [Cíl](#cíl)
   - [Solution Idea](#solution-idea)
 - [Data origin](#data-origin)
 - [Project Steps](#project-steps)
