@@ -191,8 +191,7 @@ Cílem je upravit náš dataset tak, aby byl připravený k analýze.
     <td style="text-align: center;">5</td>
   </tr>
 </table>  
-  
-  
+
 - Data types a column names  
 
 <table>
@@ -333,7 +332,7 @@ Hlavní témata jsou:
 | 9    | FIZIstyle                     |       1.16      |
 | 10   | Mr. Michal                    |       1.12      |  
 
-**2) 10 youtuberů (kanálů), kteří zveřejnili nejvíce videí?** 
+**2) 10 youtuberů (kanálů), kteří zveřejnili nejvíce videí?**  
 
 | Rank | Název kanálu                      |  Počet videí (M) |
 |------|-----------------------------------|:----------------:|
@@ -378,7 +377,7 @@ Hlavní témata jsou:
 | 9    | Slza                       |                 3.35                |
 | 10   | Ben Cristovao              |                 2.26                |  
 
-**5) Kteří youtubeři (10 nej kanálů) mají nejlepší poměr zhlédnutí vůči odběratelům?**
+**5) Kteří youtubeři (10 nej kanálů) mají nejlepší poměr zhlédnutí vůči odběratelům?**  
 
 | Rank | Název kanálu               | Počet zhlédnutí/počet odběratelů |
 |:---- |:---------------------------|:--------------------------------:|
@@ -393,7 +392,7 @@ Hlavní témata jsou:
 | 9    | TOP veci do 2 minut        |                 734              |
 | 10   | Alkanhraje                 |                 729              |  
 
-**6) Kterých 10 youtuberů (kanálů) má nejvyšší míru zapojení odběratelů?  **
+**6) Kterých 10 youtuberů (kanálů) má nejvyšší míru zapojení odběratelů?**  
 
 | Rank | Název kanálu             |    Míra zapojení    |
 |:---- |:-------------------------|:-------------------:|
@@ -410,7 +409,7 @@ Hlavní témata jsou:
 
 V analýze se primárně zaměřujeme na klíčové metriky, které jsou nezbytné pro dosažení očekávané návratnosti investic (ROI) pro naše marketingové oddělení. Konkrétně se soustředíme na YouTube kanály/youtubery s nejvyšším počtem odběratelů, celkovým největším počtem nahraných videí a celkovým největším počtem zhlédnutí. Analyzováním těchto metrik si klademe za cíl identifikovat nejvhodnější youtubery, abychom optimalizovali úsilí našeho marketingového oddělení na YouTube.
 
-### Validation - Scenarios  
+### Scenarios  
 
 These metrics (YouTube channels with the highest number of subscribers, total videos uploaded, and total views) will be used in three simulation scenarios through which we will attempt to find suitable YouTubers. These scenarios will help us evaluate different approaches and campaign costs, allowing us to visualize the varying profitability of individual campaigns.
 
