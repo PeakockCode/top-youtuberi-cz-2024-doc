@@ -175,7 +175,7 @@ Cílem je upravit náš dataset tak, aby byl připravený k analýze.
   
 Zkontrolujeme následující:
 
-Počet řádků a sloupců: 
+**Počet řádků a sloupců**  
 
 <table>
   <tr>
@@ -192,7 +192,7 @@ Počet řádků a sloupců:
   </tr>
 </table>  
 
-Data types a column names:  
+**Data types a column names**  
 
 <table>
   <tr>
