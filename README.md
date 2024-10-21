@@ -611,45 +611,44 @@ V této části shrneme hlavní informace z naší analýzy a na základě těch
 
 ### Zjištění
 
-1) Co se týče YouTuberů (YouTube kanálů) s největším počtem odběratelů, zjistili jsme:
+1) Co se týče YouTuberů (YouTube kanálů) s největším počtem odběratelů, zjistili jsme, že:
    
   - Silvie Mahdal, Puzzle Guy a MenT jsou ti, kteří mají největší počet odběratelů v České republice v roce 2024.
   - Všech 10 youtuberů (kanálů) s nejvíce odběrateli má více než 1 milion odběratelů.
   - V 1. scénáři (spolupráce založená na product placement) je nejvhodnějším YouTuberem Mr. Michal s potenciálním čistým ziskem přes 17,7 milionu Kč, následovaný je Silvií Mahdal s potenciálním čistým ziskem přes 13,4 milionu Kč a na 3. místě je Puzzle Guye s potenciálním čistým ziskem 6,5 milionu Kč.
 
-2) Focusing on the YouTubers (YouTube channels) with the most uploaded videos, we learned:
+2) Zaměřením se na youtubery (YouTube kanály) s nejvíce nahranými videi jsme zjistili, že:
    
-  - The YouTubers (YouTube channels) that posted the most content (including Radio Free Europe/Radio Liberty with 9,649 videos uploaded) did not suceed in the 2nd Scenario.
-  - The only YouTuber (YouTube channel) able to generate profit in the 2nd Scenario is MenT, with a potential net profit         600,000.00 CZK. All others show a potential loss.
-  - This Scenario appears to be less productive and much riskier compared to the others.
+  - Youtubeři (YouTube kanály), kteří publikovali nejvíce obsahu (včetně Rádia Svobodná Evropa/Rádia Svoboda s 9 649 nahranými videi), nebyli ve 2. scénáři úspěšní.
+  - Jediným youtuberem (YouTube kanálem), který dokázal generovat zisk ve 2. scénáři, je MenT, s potenciálním čistým ziskem 600 000 Kč. Všichni ostatní vykazují potenciální ztrátu.
+  - Tento scénář se zdá být méně produktivní a mnohem rizikovější ve srovnání s ostatními dvěma scénáři.
 
-3) By concentrating on the YouTubers (YouTube channels) with the most views, we discovered:
+3) Když jsme se zaměřili na youtubery (YouTube kanály) s nejvyšším počtem zhlédnutí, zjistili jsme, že:
    
-  - Puzzle Guy is the YouTuber with the highest total view count. With over 1.6 billion views, he is by far the leader in       this category. The second, MenT, has 697 million fewer views, with a total of only 910 million. The remaining YouTubers     (YouTube channels) have between 535 million and 777 million views.
-  - In the 3rd scenario (Collaboration with YouTubers with the most views based on contract), the most suitable YouTuber is     ViralBrothers SHOW, with a potential net profit of over 25.6 million CZK, followed by Štístko a Poupěnka with a             potential net profit of over 14 million CZK, and Puzzle Guy with a potential net profit of over 6 million CZK (this         YouTuber also succeeded in the 1st scenario).
+  - Puzzle Guy je youtuber s nejvyšším celkovým počtem zhlédnutí. S více než 1,6 miliardy zhlédnutí je daleko vedoucím v této kategorii. Druhý, MenT, má o 697 milionů zhlédnutí méně, s celkovým počtem 910 milionů. Zbývající youtubeři (YouTube kanály) mají mezi 535 miliony a 777 miliony zhlédnutí.
+  - Ve 3. scénáři, kde spolupracujeme s YouTubery (s největším počtem zhlédnutí videí) na základě smlouvy, je nejvhodnějším youtuberem ViralBrothers SHOW s potenciálním čistým ziskem přes 25,6 milionu Kč, následovaný kanálem Štístko a Poupěnka s potenciálním čistým ziskem přes 14 milionů Kč. Na třetím místě je pak Puzzle Guy s potenciálním čistým ziskem přes 6 milionů Kč (tento YouTuber byl také poměrně úspěšný v 1. scénáři).
 
-Across all categories, YouTubers (YouTube channels) focusing on entertainment, gaming content, or music, tend to dominate, likely due to their consistent posting on the platform.
+Ve všech kategoriích dominují YouTubeři (YouTube kanály) zaměřující se na zábavu, herní obsah a nebo hudbu. Je to pravděpodobně způsobené pravidelně zveřejňováným obsahem na platformě, díky čemuž si udržují sledující.
 
-### Recommendations  
+### Doporučení
 
-#### Resume
+#### Shrnutí
 
-1) **The best YouTuber (YouTube channel) we recommend collaborating with based on product placement (the first scenario) is Mr. Michal**, as he is the optimal choice for enhancing visibility on YouTube and achieving the highest potential net profit (over 17.7 million CZK). While he may not have the largest subscriber base, his high views per video make him a valuable partner for our marketing campaign.
+1) **Nejlepší/nejvhodnější youtuber (YouTube kanál), se kterým doporučujeme spolupracovat na základě product placement (první scénář), je Mr. Michal**, protože je optimální volbou pro zvýšení viditelnosti na YouTube a dosažení nejvyššího potenciálního čistého zisku (přes 17,7 milionu Kč) v této kategorii. I když nemá největší počet odběratelů, jeho vysoká sledovanost videí z něj činí cenného partnera pro naši marketingovou kampaň.
 
-2) As mentioned in the Findings section, the second scenario appears to be dramatically less productive, resulting in a significantly lower return on investment. There is only one YouTuber worth considering in this case: MenT (gaming content), who can generate potential net profit, unlike other YouTubers in this category who are regular publishers. If our company were to focus on gaming content, there are likely better alternatives, such as SirYakari (even though he was not part of this scenario, in the third scenario, he performed significantly better than MenT). Despite posting less frequently, SirYakari averages 1 million views per video and generates over 3.1 million CZK in net profit, positioning him as a leader among YouTubers in the gaming content genre. In the case of focusing specifically on gaming content, it is worth mentioning the need for a deeper analysis, which would consider factors such as engagement rate, the specific content of gaming videos, and the overall activity of YouTubers in the past year. **Given all the factors mentioned, we do not recommend anyone in this scenario.**
+2) Jak bylo zmíněno dříve, druhý scénář se jeví jako výrazně méně produktivní, což vede k podstatně nižšímu profitu a tím pádem i návratu investic (případně dokonce ke ztrátě). Ve 2. scénáři stojí za zvážení pouze jeden youtuber, MenT, který může vygenerovat potenciální čistý zisk, na rozdíl od ostatních youtuberů. Pokud by se naše společnost zaměřila na herní obsah, existují pravděpodobně lepší alternativy, než je MenT. Jako vhodný kandidát se jeví například SirYakari (i když nebyl součástí tohoto scénáře, ve třetím scénáři si vedl výrazně lépe než MenT). Přestože vydává méně často, SirYakari má v průměru 1 milion zhlédnutí na video a generuje přes 3,1 milionu Kč čistého zisku, čímž se řadí mezi lídry mezi youtubery, kteří se zaměřují na hraní her. V případě zaměření se výhradně na herní obsah stojí ale za zmínku také potřeba další hlubší analýzy, která by zohledňovala faktory jako míra zapojení sledujících, konkrétní obsah herních videí a celková aktivita youtuberů za poslední rok. **S ohledem na všechny uvedené faktory v tomto scénáři nikoho nedoporučujeme.**
 
-3) **ViralBrothers SHOW is the best YouTuber (YouTube channel) to collaborate with based on contract if we are interested in maximizing our reach (the third scenario)**, as it offers significantly higher average views per video, leading to the highest potential net profit (25,680,000.00 CZK). However, if we focus on small children's products, it would be worth considering the channel Štístko a Poupěnka because of its specific genre, even though its subscriber base is dramatically lower.
+3) **ViralBrothers SHOW je nejlepší YouTube kanál pro spolupráci (na základě smlouvy), pokud máme zájem maximalizovat dosah (třetí scénář)**, protože nabízí výrazně vyšší průměrný počet zhlédnutí na video, což vede k nejvyššímu potenciálnímu čistému zisku (25,680,000.00 Kč). Pokud bychom se však specializovali na produkty pro malé děti, stálo by za to zvážit kanál Štístko a Poupěnka (díky jeho specifickému žáměření na tvorbu obsahu pro malé děti), i když má výrazně menší počet odběratelů.
 
-4) **The top YouTubers to collaborate with based on our findings are ViralBrothers SHOW and Mr. Michal.** They are the best options due to their main genre of entertainment, which is broader compared to the other selected YouTubers. Both also have a fairly large subscriber base, and combined with their high profit potential, they are good candidates for long-term cooperation.
-If we are looking for a specific genre to focus on, such as drawing or even puzzle-solving, then Silvie Mahdal (potentially Puzzle Guy) could also be a good option. Their subscriber base and engagement rate are the highest, but their content is aimed at a narrow audience.
+4) **Nejlepší YouTubeři pro spolupráci na základě našich zjištění jsou ViralBrothers SHOW a Mr. Michal.** Jsou nejlepší volbou nejen díky žánru, na který se specializují (zábavní obsah), a jež je širší ve srovnání s ostatními vybranými YouTubery, ale mají také poměrně velkou základnu odběratelů. To je pak ve spojení s vysokým potenciálním ziskem indikátor, že jsou skutečně vhodnými kandidáty pro dlouhodobou spolupráci. Pokud hledáme specifický žánr, jako je kreslení nebo řešení hádanek, pak by také Silvie Mahdal, případně Puzzle Guy, mohli být dobrou volbou. Jejich základna odběratelů a míra zapojení jsou nejvyšší, ale jejich obsah je zaměřen na úzké publikum.
 
-#### Potential profit  
+#### Možný/potenciální zisk  
 
-1) Signing a contract with the YouTube channel ViralBrothers SHOW could result in a net profit of 25,680,000 CZK.  
-2) Collaboration with YouTuber Mr. Michal would bring us net profit of 17,740,000.00 CZK.  
-3) From an influencer marketing contract with the YouTube channel Štístko a Poupěnka, we could expect a profit of 14,080,000 CZK.  
-4) A partnership based on product placement with YouTuber Silvie Mahdal could generate a profit of 13,420,000 CZK.  
-5) A product placement campaign with YouTuber Puzzle Guy could generate a profit of 6,500,000 CZK, while a contract-based collaboration would bring in 6,040,000 CZK.  
+1) Podepsání smlouvy s YouTube kanálem ViralBrothers SHOW by mohlo přinést čistý zisk ve výši 25 680 000 Kč.  
+2) Spolupráce s youtuberem Mr. Michalem by nám mohla přinést čistý zisk 17 740 000 Kč.
+3) Při spolupráci s kanálem Štístko a Poupěnka můžeme očekávat zisk 14 080 000 Kč.
+4) Product placement kampaň ve spolupráci s youtuberkou Silvií Mahdal by mohla vygenerovat zisk 13 420 000 Kč.
+5) Kampaň zaměřená na product placement ve spolupráci s youtuberem Puzzle Guy by mohla přinést zisk 6 500 000 Kč, zatímco spolupráce na základě smlouvy by mohla vynést 6 040 000 Kč.
    
 #### Course of Action
 
