@@ -462,11 +462,11 @@ Cílem tohoto scénáře je posoudit rentabilitu **product placements** prostře
 
    Nejlepší alternativou v tomto scénáři je **Mr. Michal** s potenciálním čistým ziskem **17 740 000,00 Kč**.  
 
-**SQL Query - Inicializace proměnných pro 1. scénář**  
+**SQL Dotaz - Inicializace proměnných pro 1. scénář**  
 
 <img src="assets/images/sql/analysis/total_subscibers_variables.png" alt="1. scénář - proměnné" style="border: 0.5px solid black;"/>  
 
-**SQL Query - Kód a výstup pro 1. scénář**  
+**SQL Dotaz - Kód a výstup pro 1. scénář**  
 
 <img src="assets/images/sql/analysis/total_subscibers_analysis2.png" alt="1. scénář - výstup" style="border: 0.5px solid black;"/>  
 
@@ -539,11 +539,11 @@ Cílem tohoto scénáře je vyhodnotit rentabilitu video serie, kdy bychom prost
 
    Nejlepším (a jediným) řešením v tomto scénáři, pokud chceme dosáhnout zisku, je **MenT** s potenciálním čistým ziskem **600,000.00 Kč**. 
 
-**SQL Query - Inicializace proměnných pro 2. scénář**  
+**SQL Dotaz - Inicializace proměnných pro 2. scénář**  
 
 <img src="assets/images/sql/analysis/total_videos_variables.png" alt="2. scénář - proměnné" style="border: 0.5px solid black;"/>
 
-**SQL Query - Kód a výstup pro 2. scénář**
+**SQL Dotaz - Kód a výstup pro 2. scénář**
 
 <img src="assets/images/sql/analysis/total_videos_analysis2.png" alt="2. scénář - výstup" style="border: 0.5px solid black;"/>
   
@@ -596,11 +596,11 @@ V tomto scénáři se zaměříme na analýzu youtuberů s nejvyšším počtem 
 
      Nejlepší alternativou v tomto scénáři je kanál **ViralBrothers SHOW** s s potenciálním čistým ziskem **25,680,000.00 Kč**.  
 
-**SQL Query - Inicializace proměnných pro 3. scénář**  
+**SQL Dotaz - Inicializace proměnných pro 3. scénář**  
 
 <img src="assets/images/sql/analysis/total_views_variables.png" alt="3. scénář - proměnné" style="border: 0.5px solid black;"/>  
 
-**SQL Query - Kód a výstup pro 3. scénář**  
+**SQL Dotaz - Kód a výstup pro 3. scénář**  
 
 <img src="assets/images/sql/analysis/total_views_analysis3.png" alt="3. scénář - výstup" style="border: 0.5px solid black;"/>  
 
