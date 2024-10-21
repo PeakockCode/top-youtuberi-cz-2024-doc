@@ -99,32 +99,14 @@ Tabulky, KPI ukazatele (metriky jako je míra zapojení, apod.), sloupcové a da
 
 ![Návrh dashboardu](assets/images/dashboard/TopYouTubers_CZ2024_DashboardMockup2.png)
 
-### Využité programy
+### Využité nástroje
 
-**Tools required for the Process**
-
-<table>
-  <tr>
-    <th style="text-align: center;">Program</th>
-    <th style="text-align: center;">Důvod</th>
-  </tr>
-  <tr>
-    <td style="text-align: left;">Jupyter Lab</td>
-    <td style="text-align: left;">Získání dat</td>
-  </tr>
-  <tr>
-    <td style="text-align: left;">MS Excel</td>
-    <td style="text-align: left;">Průzkum dat</td>
-  </tr>
-  <tr>
-    <td style="text-align: left;">MS SQL Server</td>
-    <td style="text-align: left;">Čistění, příprava, testování a analýza dat</td>
-  </tr>
-    <tr>
-    <td style="text-align: left;">Power BI/Tableau</td>
-    <td style="text-align: left;">Vizualizace</td>
-  </tr>
-</table>
+| Program              | Důvod k využití                                    |
+|----------------------|----------------------------------------------------|
+| Jupyter Lab          | Získání dat                                        |
+| MS Excel             | Průzkum dat                                        |
+| MS SQL Server        | Čistění, příprava, testování a analýza dat         |
+| Power BI/Tableau     | Vizualizace                                        |  
 
 ## Proces vývoje - obecný postup
 
