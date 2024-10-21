@@ -650,39 +650,38 @@ Ve všech kategoriích dominují YouTubeři (YouTube kanály) zaměřující se 
 4) Product placement kampaň ve spolupráci s youtuberkou Silvií Mahdal by mohla vygenerovat zisk 13 420 000 Kč.
 5) Kampaň zaměřená na product placement ve spolupráci s youtuberem Puzzle Guy by mohla přinést zisk 6 500 000 Kč, zatímco spolupráce na základě smlouvy by mohla vynést 6 040 000 Kč.
    
-#### Course of Action
+#### Další postup
 
-Based on this analysis (relying on the publicly available information), the best Youtube channel to cooperate on promotion of our product in long term partnership is ViralBrothers SHOW. 
+Na základě této analýzy (vycházející z veřejně dostupných informací) je nejlepší YouTube kanál pro dlouhodobou spolupráci na propagaci našeho produktu ViralBrothers SHOW.
 
-We will discuss the possibilities with our marketing department to confirm the expectations for the collaborations. It is important to validate whether all requirements have been met. For example, we may find that expectations have changed, such as targeting a more specific audience or that profit is no longer a priority. Based on this, we may reconsider our recommendations (or dig deeper into the analysis to monitor trends and patterns over a longer period) or move forward with potential collaborations with ViralBrothers SHOW or Mr. Michal in the future.
+Prodiskutujeme možnosti s naším marketingovým oddělením, abychom si vzájemně potvrdili očekávání ohledně kampaně. Je důležité ověřit, zda jsou splněny všechny požadavky klienta, v našem případě marketingového oddělení. Například se může stát, že se očekávání změnila, cílíme nově na konkrétnější publikum, nebo že zisk již není naší hlavní prioritou. Na základě toho můžeme doporučení přehodnotit, případně pokračovat v jednání o možné spolupraci s kanálem ViralBrothers SHOW nebo youtuberem Mr. Michal.
 
-What actions should we take afterward to implement the suggested decisions?
+Jaké další kroky bychom měli podniknout k realizaci kampaně?
 
-- Reach out to the teams associated with the ViralBrothers SHOW and/or Mr. Michal channels.
-- Negotiate contracts that remain within the budget set for each marketing campaign.
-- Launch the campaigns and monitor their performance against our established KPIs.
-- Assess the results of the campaigns, gather insights, and optimize based on feedback from converted customers and the audiences of each channel.
+- Navážeme spojení s týmy okolo Youtube kanálů ViralBrothers SHOW a/nebo Mr. Michal.
+- Vyjednáme smlouvu/y pohybující se v rámci rozpočtu marketingové kampaně.
+- Spustíme kampaň/ně a budeme sledovat její/ich výkon ve vztahu k našim stanoveným KPI.
+- Vyhodnotíme výsledky kampaně/í a případně kampaň/ně přehodnotíme na základě zpětné vazby od zákazníků nebo našeho publika.
+- 
+#### Závěrečné poznatky
 
-#### Concluding Thoughts
+**Jaké kroky bychom měli podniknout před skutečným rozhodnutím (a zahájením implementace marketingové strategie) a proč věříme, že jsou důležité?**
 
-**What sort of actions should we undertake before we really decide (and start to implement the marketing strategy) and why do we believe they are important?**
+Měli bychom se zaměřit na hlubší analýzu?  
+Vzhledem ke všem informacím, které máme k dispozici, je jasné, že pro takto komplexní úkol nejsou tyto informace dostačující. Proto bychom měli provést minimálně další analýzu obou zmíněných kanálů (případně, pakliže to dovoluje náš rozpočet, všech zůčastněných kanálů). Zvláště bychom se měli zaměřit na následující faktory:
 
-Should we focus on a deeper analysis?
-Considering all the information we have, it is clearly insufficient for such a complex task, and we should conduct at least a further in-depth analysis of both mentioned channels. Specifically, we would be interested in:
+- **Míra zapojení:** Tato metrika měří nejen, kolik sledujících sleduje videa, ale také kolik se jich aktivně zapojuje do interakce prostřednictvím komentářů, lajků či sdílení. To nám pomůže zjistit, jak angažované je publikum sledovaných kanálů. Z dostupných informací víme, že míra zapojení u kanálu ViralBrothers SHOW je 2,13 %, zatímco u kanálu Mr. Michal je 3,32 %. Tato čísla jsem však pro hlubší analýzu nepoužil, protože pocházejí z jiného zdroje než data ostatní. Ačkoliv bylo ověřeno, že by tato data měla pocházet ze stejného období, nemůžeme to s jistotou tvrdit, a proto byly tyto údaje použity spíše jako doplňující reference a také pro vizualizaci v dashboardu.  
 
-- **Engagement rate:** This measures how many followers not only watch the videos but also engage through comments, likes, and shares. This will help us determine how engaged the audiences of these channels are. From the information available to us, we know that ViralBrothers SHOW has an engagement rate of 2.13%, while Mr. Michal has 3.32%. However, I did not use these figures for deeper analysis because they come from a different source than the other data. Although it has been verified that these data should be from the same period, we cannot state that with certainty; therefore, this figure was used more as a supplementary reference and for visualization in the dashboard.
+- **Složení publika:** Zajímá nás zejména, zda zaměření kanálu odpovídá demografii našich klientů (věk, pohlaví, zájmy).  
 
-- **Audience demographics**: Specifically, whether the channel’s focus aligns with the demographics of our average client (age, gender, interests).
+- **Geografický dosah kanálu:** V podstatě se jedná o to, ve které zemi či zemích má youtuber největší vliv na své sledující.  
 
-- **Channel reach demographics:** Essentially, in which country or countries the YouTuber has the most impact on their followers.
+- **Zaměření kanálu:** Zkoumá se to, zda se obsah vybraného kanálu shoduje se zaměřením našeho produktu.  
 
-- **Channel focus:** Whether the channel’s focus aligns with the product.
+- **Reputace a důvěryhodnost:** Jedná se o důvěryhodnost youtubera a o to, zda působí na sledující autenticky. 
 
-- **Reputation and credibility:** This refers to the YouTuber's reputation and whether they appear trustworthy and authentic.
+- **Trendy v růstu počtu sledujících:** Tento údaj nám poskytne přehled o výkonu kanálu v čase.
 
-- **Trends in follower growth:** This would provide us insights into the channel’s performance over time.
+- **Frekvence nahrávání videí a celková roční aktivita kanálu:** Tato metrika ukazuje, jak pravidelně youtuber zveřejňuje obsah. Pravidelný plán nahrávání pomáhá udržet angažovanost publika a přilákat nové odběratele. Zároveň nám přehled roční aktivity umožní pochopit, jak se youtuber přizpůsobuje trendům a jak udržuje obsah aktuální a relevantní.  
 
-- **Frequency of video posting and overall annual activity on the channel:** This metric indicates the YouTuber's consistency in posting; a regular upload schedule helps maintain audience engagement and attract new subscribers. Additionally, understanding annual activity provides insight into how the YouTuber adapts to trends and keeps content fresh and relevant.
-
-Conducting all of these actions is recommended after this analysis to ensure we are truly confident in our choice of YouTuber for our product. However, this would require access to non-public information or, alternatively, gathering publicly available information through further research, as this data is not typically summarized anywhere outside of paid databases. Therefore, everything mentioned above also answers the question of whether commonly available information is sufficient to fulfill the task assigned to us by the marketing department, and we do not consider it sufficient. That is why we recommend the actions mentioned above.
-
+Provedení všech těchto kroků doporučujeme proto, abychom měli skutečnou jistotu ve výběru youtubera pro propagaci našeho produktu, což nám v konečné fázi může ušetřit náklady a přinést vyšší zisk. K tomu by však byl potřebný přístup k neveřejně dostupným informacím, protože tato data se obvykle nenachází, v přijatelné formě, nikde mimo placené databáze. Vše výše zmíněné také odpovídá na otázku, zda jsou běžně dostupné informace dostačující pro splnění úkolu, který nám zadalo naše marketingové oddělení. Podle našeho názoru tedy nejsou. Také z tohoto důvodu doporučujeme provést alespoň některé z výše uvedených kroků.
