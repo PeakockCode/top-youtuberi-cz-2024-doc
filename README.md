@@ -561,11 +561,11 @@ V tomto scénáři se zaměříme na analýzu youtuberů s nejvyšším počtem 
   
 *3 nejvhodnější youtubeři (YouTube kanály) ve 3. scénáři*  
 
-| Rank | NÁZEV KANÁLU              | HLAVNÍ TÉMA KANÁLU               |
-|------|---------------------------|----------------------------------|
-| **1**| **ViralBrothers SHOW**    | **Zábava**                       |
-| 2    | Štístko a Poupěnka        | Zábava pro děti                  |
-| 3    | Puzzle Guy                | Řešení hádanek/puzzle solving/   |  
+| Pořadí | NÁZEV KANÁLU              | HLAVNÍ TÉMA KANÁLU               |
+|--------|---------------------------|----------------------------------|
+| **1**  | **ViralBrothers SHOW**    | **Zábava**                       |
+| 2      | Štístko a Poupěnka        | Zábava pro děti                  |
+| 3      | Puzzle Guy                | Řešení hádanek/puzzle solving/   |  
 
 **1) ViralBrothers SHOW**
    
