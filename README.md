@@ -319,175 +319,175 @@ Hlavní témata jsou:
 
 **1) Kterých 10 youtuberů (kanálů) má nejvíce odběratelů?**  
 
-| Rank | Název kanálu                  |   Odběratel (M) |
-|------|-------------------------------|-----------------|
-| 1    | Silvie Mahdal                 |       2.64      |
-| 2    | Puzzle guy                    |       2.56      |
-| 3    | MenT                          |       1.54      | 
-| 4    | HONEST GUIDE                  |       1.40      |
-| 5    | Adam Something                |       1.28      |
-| 6    | Alexander Zakshevsky          |       1.25      |
-| 7    | Игорь Линк                    |       1.25      |
-| 8    | DIY crafts from A4 PAPER      |       1.22      |
-| 9    | FIZIstyle                     |       1.16      |
-| 10   | Mr. Michal                    |       1.12      |  
+| Pořadí | Název kanálu                  |   Odběratel (M) |
+|--------|-------------------------------|-----------------|
+| 1      | Silvie Mahdal                 |       2.64      |
+| 2      | Puzzle guy                    |       2.56      |
+| 3      | MenT                          |       1.54      | 
+| 4      | HONEST GUIDE                  |       1.40      |
+| 5      | Adam Something                |       1.28      |
+| 6      | Alexander Zakshevsky          |       1.25      |
+| 7      | Игорь Линк                    |       1.25      |
+| 8      | DIY crafts from A4 PAPER      |       1.22      |
+| 9      | FIZIstyle                     |       1.16      |
+| 10     | Mr. Michal                    |       1.12      |  
 
 **2) 10 youtuberů (kanálů), kteří zveřejnili nejvíce videí?**  
 
-| Rank | Název kanálu                      |  Počet videí (M) |
-|------|-----------------------------------|:----------------:|
-| 1    | Radio Free Europe/Radio Liberty   |     9,649        |
-| 2    | Totalfilm.cz                      |     7,812        |
-| 3    | Алексей Ворон                     |     5,001        |
-| 4    | Godzu                             |     3,743        |
-| 5    | Agraelus                          |     3,315        |
-| 6    | Sterakdary                        |     3,085        |
-| 7    | MenT                              |     3,045        |
-| 8    | Alkanhraje                        |     2,952        |
-| 9    | PedrosGame                        |     2,827        |
-| 10   | Alexander Zakshevsky              |     2,780        |  
+| Pořadí | Název kanálu                      |  Počet videí (M) |
+|--------|-----------------------------------|:----------------:|
+| 1      | Radio Free Europe/Radio Liberty   |     9,649        |
+| 2      | Totalfilm.cz                      |     7,812        |
+| 3      | Алексей Ворон                     |     5,001        |
+| 4      | Godzu                             |     3,743        |
+| 5      | Agraelus                          |     3,315        |
+| 6      | Sterakdary                        |     3,085        |
+| 7      | MenT                              |     3,045        |
+| 8      | Alkanhraje                        |     2,952        |
+| 9      | PedrosGame                        |     2,827        |
+| 10     | Alexander Zakshevsky              |     2,780        |  
 
 **3) Kteří youtubeři (10 nej kanálů) mají nejvyšší počet zhlédnutí videí?**  
 
-| Rank | Název kanálu                          |  Počet zhlédnutí (M) |
-|:---- |:--------------------------------------|:--------------------:|
-| 1    | Puzzle guy                            |      1,607.53        |
-| 2    | MenT                                  |        910.00        |
-| 3    | Baxtrix                               |        776.72        |
-| 4    | FIZIstyle                             |        733.69        |
-| 5    | Milion Plus                           |        675.20        |
-| 6    | SirYakari                             |        620.42        |
-| 7    | Štístko a Poupěnka                    |        602.02        |
-| 8    | ViralBrothers SHOW                    |        552.84        |
-| 9    | Blakkwood Records                     |        540.98        |
-| 10   | Radio Free Europe/Radio Liberty       |        535.21        |  
+| Pořadí | Název kanálu                          |  Počet zhlédnutí (M) |
+|:-------|:--------------------------------------|:--------------------:|
+| 1      | Puzzle guy                            |      1,607.53        |
+| 2      | MenT                                  |        910.00        |
+| 3      | Baxtrix                               |        776.72        |
+| 4      | FIZIstyle                             |        733.69        |
+| 5      | Milion Plus                           |        675.20        |
+| 6      | SirYakari                             |        620.42        |
+| 7      | Štístko a Poupěnka                    |        602.02        |
+| 8      | ViralBrothers SHOW                    |        552.84        |
+| 9      | Blakkwood Records                     |        540.98        |
+| 10     | Radio Free Europe/Radio Liberty       |        535.21        |  
 
 **4) Kteří youtubeři (10 nej kanálů) mají nejvyšší průměrný počet zhlédnutí na video?**  
 
-| Rank | Název kanálu             |  Průměrný počet zhlédnutí/video (M) |
-|:---- |:---------------------------|:-----------------------------------:|
-| 1    | ViralBrothers SHOW         |                 6.66                |
-| 2    | Mr. Michal                 |                 4.56                |
-| 3    | atomic marvel              |                 4.19                |
-| 4    | Prague Cello Quartet       |                 3.92                |
-| 5    | BESPREDEL                  |                 3.81                |
-| 6    | Štístko a Poupěnka         |                 3.76                |
-| 7    | Pat a Mat                  |                 3.48                |
-| 8    | Silvie Mahdal              |                 3.48                |
-| 9    | Slza                       |                 3.35                |
-| 10   | Ben Cristovao              |                 2.26                |  
+| Pořadí | Název kanálu             |  Průměrný počet zhlédnutí/video (M) |
+|:-------|:---------------------------|:-----------------------------------:|
+| 1      | ViralBrothers SHOW         |                 6.66                |
+| 2      | Mr. Michal                 |                 4.56                |
+| 3      | atomic marvel              |                 4.19                |
+| 4      | Prague Cello Quartet       |                 3.92                |
+| 5      | BESPREDEL                  |                 3.81                |
+| 6      | Štístko a Poupěnka         |                 3.76                |
+| 7      | Pat a Mat                  |                 3.48                |
+| 8      | Silvie Mahdal              |                 3.48                |
+| 9      | Slza                       |                 3.35                |
+| 10     | Ben Cristovao              |                 2.26                |  
 
 **5) Kteří youtubeři (10 nej kanálů) mají nejlepší poměr zhlédnutí vůči odběratelům?**  
 
-| Rank | Název kanálu               | Počet zhlédnutí/počet odběratelů |
-|:---- |:---------------------------|:--------------------------------:|
-| 1    | Štístko a Poupěnka         |                1568              |
-| 2    | Totalfilm.cz               |                1146              |
-| 3    | tynikdy                    |                1143              |
-| 4    | Milion Plus                |                1089              |
-| 5    | Blakkwood Records          |                1065              |
-| 6    | Tvoje tvář má známý hlas   |                 994              |
-| 7    | Baxtrix                    |                 873              |
-| 8    | Pokáčovo Kanál             |                 758              |
-| 9    | TOP veci do 2 minut        |                 734              |
-| 10   | Alkanhraje                 |                 729              |  
+| Pořadí | Název kanálu               | Počet zhlédnutí/počet odběratelů |
+|:-------|:---------------------------|:--------------------------------:|
+| 1      | Štístko a Poupěnka         |                1568              |
+| 2      | Totalfilm.cz               |                1146              |
+| 3      | tynikdy                    |                1143              |
+| 4      | Milion Plus                |                1089              |
+| 5      | Blakkwood Records          |                1065              |
+| 6      | Tvoje tvář má známý hlas   |                 994              |
+| 7      | Baxtrix                    |                 873              |
+| 8      | Pokáčovo Kanál             |                 758              |
+| 9      | TOP veci do 2 minut        |                 734              |
+| 10     | Alkanhraje                 |                 729              |  
 
 **6) Kterých 10 youtuberů (kanálů) má nejvyšší míru zapojení odběratelů?**  
 
-| Rank | Název kanálu             |    Míra zapojení    |
-|:---- |:-------------------------|:-------------------:|
-| 1    | Suara Injil              |        14.87%       |
-| 2    | Alexander Zakshevsky     |        13.01%       |
-| 3    | Алексей Ворон            |        12.85%       |
-| 4    | SmusaGames               |         9.91%       |
-| 5    | Wedry                    |         9.28%       |
-| 6    | PIERRE XO                |         9.07%       |
-| 7    | Jmenuju Se Martin        |         8.52%       |
-| 8    | MenT                     |         8.49%       |
-| 9    | NejFake                  |         8.37%       |
-| 10   | Stay12                   |         8.33%       |  
+| Pořadí | Název kanálu             |    Míra zapojení    |
+|:-------|:-------------------------|:-------------------:|
+| 1      | Suara Injil              |        14.87%       |
+| 2      | Alexander Zakshevsky     |        13.01%       |
+| 3      | Алексей Ворон            |        12.85%       |
+| 4      | SmusaGames               |         9.91%       |
+| 5      | Wedry                    |         9.28%       |
+| 6      | PIERRE XO                |         9.07%       |
+| 7      | Jmenuju Se Martin        |         8.52%       |
+| 8      | MenT                     |         8.49%       |
+| 9      | NejFake                  |         8.37%       |
+| 10     | Stay12                   |         8.33%       |  
 
 V analýze se primárně zaměřujeme na klíčové metriky, které jsou nezbytné pro dosažení očekávané návratnosti investic (ROI) pro naše marketingové oddělení. Konkrétně se soustředíme na YouTube kanály/youtubery s nejvyšším počtem odběratelů, celkovým největším počtem nahraných videí a celkovým největším počtem zhlédnutí. Analyzováním těchto metrik si klademe za cíl identifikovat nejvhodnější youtubery, abychom optimalizovali úsilí našeho marketingového oddělení na YouTube.
 
 ### Simulace scénářů  
 
-Tyto metriky (YouTube kanály s nejvyšším počtem odběratelů, celkovým počtem nahraných videí a celkovým počtem zhlédnutí) budou použity ve třech simulačních scénářích, prostřednictvím kterých se pokusíme najít vhodné youtubery. Tyto scénáře nám pomohou vyhodnotit různé přístupy s rozdílnými náklady na kampaně, což nám umožní vizualizovat rentabilitu jednotlivých kampaní v rámci spolupráce s youtubery.
+Již dříve zmíněné metriky (počet odběratelů, počet nahraných videí a počet zhlédnutí) budou použity ve třech simulačních scénářích, prostřednictvím kterých se pokusíme najít vhodné youtubery. Tyto scénáře nám pomohou vyhodnotit různé přístupy s rozdílnými náklady na kampaně, což nám umožní vizualizovat rentabilitu jednotlivých kampaní v rámci spolupráce s youtubery.
 
-#### 1) Scenario: Collaboration (based on product placement) with YouTubers (YouTube Channels) with the Most Subscribers 
+#### 1) Scénář: Spolupráce (na základě product placement) s youtubery (YouTube kanály) s nejvyšším počtem odběratelů
 
-The idea of this scenario is to consider the profitability of **product placements** in videos by collaborating with YouTubers who have the highest number of subscribers. We will identify the 3 most suitable YouTubers (YouTube channels).  
+Cílem tohoto scénáře je posoudit rentabilitu **product placements** prostřednictvím spolupráce s YouTubery, kteří mají nejvyšší počet odběratelů. Identifikujeme nejdříve 3 nejlepší/nejvhodnější youtubery (kanály).  
 
-*Campaign Variables in 1. Scenario*  
+*Proměnné v 1. scénáři*  
 
-| Item                               | Value                |
-|------------------------------------|----------------------|
-| Product cost                       | 200 CZK              |
-| Conversion rate                    | 2 %                  |
-| Campaign cost (one-time fee/period)| 500,000.00 CZK       |  
+| Proměnná                              | Hodnota              |
+|---------------------------------------|----------------------|
+| Cena produktu                         | 200 Kč               |
+| Konverzní míra                        | 2 %                  |
+| Náklady na kampaň (jednorázově/období)| 500,000.00 Kč        |  
 
-*3 Most Suitable YouTubers (YouTube channels) in 1. Scenario*  
+*3 Nejvhodnější youtubeři (YouTube kanály) v 1. scénáři*  
 
-| Rank    | CHANNEL NAME       | MAIN TOPIC              |
-|---------|--------------------|-------------------------|
-| **1**   | **Mr. Michal**     | **Entertainment**       |
-| 2       | Silvie Mahdal      | Drawing tutorials       |
-| 3       | Puzzle Guy         | Puzzle content          |  
+| Pořadí  | NÁZEV KANÁLU       |         Hlavní téma kanálu        |
+|---------|--------------------|-----------------------------------|
+| **1**   | **Mr. Michal**     | **Zábava**                        |
+| 2       | Silvie Mahdal      | Tutoriály kreslení                |
+| 3       | Puzzle Guy         | Řešení hádanek/puzzle solving/    |  
   
   
-**1) Mr. Michal**
+**1) Mr. Michal**  
    
-   - Average views per video = 4.56 million
-   - Product cost = 200 CZK
-   - Potential product sales per video =  4.56 million * 2 % (conversion rate) = 91,200.00 (units)
-   - Potential revenue per video = 91,200.00 (units) * 200 (CZK) = 18,240,000.00 CZK
-   - Campaign cost (one-time fee/period) =  500,000.00 CZK
-   - Potential net profit =  18,240,000.00 (CZK) - 500,000.00 (CZK) = 17,740,000.00 CZK  
+   - Průměrný počet zhlédnutí na video = 4,56 milionu 
+   - Cena produktu = 200 Kč  
+   - Potenciální prodej produktu na video = 4,56 milionu * 2 % (konverzní míra) = 91 200 (ks)  
+   - Potenciální příjem na video = 91 200 (ks) * 200 (Kč) = 18 240 000,00 Kč  
+   - Náklady na kampaň (jednorázový poplatek/období) = 500 000,00 Kč  
+   - Potenciální čistý zisk = 18 240 000,00 (Kč) - 500 000,00 (Kč) = 17 740 000,00 Kč  
 
-**2) Silvie Mahdal**
+**2) Silvie Mahdal**  
    
-   - Average views per video = 3.48 million
-   - Product cost = 200 CZK
-   - Potential product sales per video = 3.48 million * 2 % (conversion rate) = 69,600.00 (units)
-   - Potential revenue per video = 69,600.00 (units) * 200 (CZK) = 13,920,000.00 CZK
-   - Campaign cost (one-time fee/period) = 500,000.00 CZK
-   - Potential net profit =  13,920,000.00 (CZK) - 500,000.00 (CZK) = 13,420,000.00 CZK  
+   - Průměrný počet zhlédnutí na video = 3,48 milionu  
+   - Cena produktu = 200 Kč  
+   - Potenciální prodej produktu na video = 3,48 milionu * 2 % (konverzní míra) = 69 600 (ks)  
+   - Potenciální příjem na video = 69 600 (ks) * 200 (Kč) = 13 920 000,00 Kč  
+   - Náklady na kampaň (jednorázový poplatek/období) = 500 000,00 Kč  
+   - Potenciální čistý zisk = 13 920 000,00 (Kč) - 500 000,00 (Kč) = 13 420 000,00 Kč  
 
-**3) Puzzle guy**
+**3) Puzzle guy**  
    
-   - Average views per video = 1.75 million
-   - Product cost = 200 CZK
-   - Potential product sales per video = 1.75 million * 2 % (conversion rate) = 35,000.00 (units)
-   - Potential revenue per video = 35,000.00 (units) * 200 (CZK) = 7,000,000.00 CZK
-   - Campaign cost (one-time fee/period) = 500,000.00 CZK
-   - Potential net profit =  7,000,000.00 (CZK) - 500,000.00 (CZK) = 6,500,000.00 CZK  
+   - Průměrný počet zhlédnutí na video = 1.75 milionu  
+   - Cena produktu = 200 Kč  
+   - Potenciální prodej produktu na video = 1.75 milionu * 2 % (konverzní míra) = 35,000.00 (ks)  
+   - Potenciální příjem na video = 35 000 (ks) * 200 (Kč) = 7 000 000,00 Kč  
+   - Náklady na kampaň (jednorázový poplatek/období) = 500 000,00 Kč  
+   - Potenciální čistý zisk = 7 000 000,00 (Kč) - 500 000,00 (Kč) = 6 500 000,00 Kč  
 
-   Best alternative in this scenario is **Mr. Michal** with **17,740,000.00 CZK** potential net profit.  
+   Nejlepší alternativou v tomto scénáři je Mr. Michal s potenciálním čistým ziskem 17 740 000,00 Kč.  
 
-**SQL Query - Variables Initialization for 1st Scenario**  
+**SQL Query - Inicializace proměnných pro 1. scénář**  
 
-<img src="assets/images/sql/analysis/total_subscibers_variables.png" alt="1. Scenario - variables" style="border: 0.5px solid black;"/>
+<img src="assets/images/sql/analysis/total_subscibers_variables.png" alt="1. scénář - proměnné" style="border: 0.5px solid black;"/>  
 
-**SQL Query - Code and Output for 1st Scenario**
+**SQL Query - Kód a výstup pro 1. scénář**  
 
-<img src="assets/images/sql/analysis/total_subscibers_analysis2.png" alt="1. Scenario - output" style="border: 0.5px solid black;"/>
+<img src="assets/images/sql/analysis/total_subscibers_analysis2.png" alt="1. scénář - výstup" style="border: 0.5px solid black;"/>  
 
-#### 2) Scenario: Collaboration (based on video series) with YouTubers (YouTube channels) Who Have Uploaded the Most Videos  
+#### 2) Scénář: Spolupráce (na základě video serie) s youtubery (YouTube kanály), kteří nahráli nejvíce videí  
   
-The goal of this scenario is to evaluate the profitability of video series through sponsorships with YouTubers who have the highest number of uploaded videos. We will select the three most suitable YouTubers (YouTube channels).
+Cílem tohoto scénáře je vyhodnotit rentabilitu video serie, kdy bychom prostřednictvím sponzoringu spolupracovali s youtubery, kteří nahráli nejvíce videí na YouTube. Vybereme tři nejlepší/nejvhodnější youtubery (YouTube kanály).  
 
-*Campaign Variables in 2. Scenario* 
+*Proměnné v 2. scénáři*  
 
-| Item                        | Value                |
+| Proměnná                    | Hodnota              |
 |-----------------------------|----------------------|
-| Product cost                | 200 CZK              |
-| Conversion rate             | 2 %                  |
-| Campaign cost per video     | 50,000.00 CZK        |  
-| Number of videos            | 12                   |
-| Total campaign cost         | 600,000.00 CZK       |  
+| Cena produktu               | 200 Kč               |
+| Konverzní míra              | 2 %                  |
+| Náklad na video             | 50,000.00 Kč         |  
+| Počet videí                 | 12                   |
+| Celkové náklady na kampaň   | 600,000.00 Kč        |  
   
 *3 Most Suitable YouTubers (YouTube channels) in 2. Scenario*  
 
-| Rank    | CHANNEL NAME           | MAIN TOPIC           |
+| Pořadí  | NÁZEV KANÁLU           | Hlavní téma kanál    |
 |---------|------------------------|----------------------|
 | **1**   | **MenT**               | **Gaming content**   |
 | 2       | Alexander Zakshevsky   | Music                |
