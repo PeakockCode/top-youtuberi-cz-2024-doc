@@ -185,26 +185,26 @@ Cílem je upravit náš dataset tak, aby byl připravený k analýze.
 <img src="assets/images/sql/cleaning/2.step-create_view.png" alt="2. krok vytváření pohledu" style="border: 0.5px solid black;"/>
 
 
-### Data testing
+### Testování dat
 
-- What quality data checks are necessary to create? 
-- What data validation do we need to ensure the dataset?
+- Jak provedeme kontrolu kvality dat?
+- Jak budeme validovat data?
   
-We need to check following informations:  
+Zkontrolujeme následující:
 
-Number of rows and columns:  
+Počet řádků a sloupců: 
 
 <table>
   <tr>
-    <th style="text-align: center;">Property</th>
-    <th style="text-align: center;">Number</th>
+    <th style="text-align: center;">Ukazatel</th>
+    <th style="text-align: center;">Hodnota</th>
   </tr>
   <tr>
-    <td style="text-align: center;">Number of Rows</td>
+    <td style="text-align: center;">Počet řádků</td>
     <td style="text-align: center;">100</td>
   </tr>
   <tr>
-    <td style="text-align: center;">Number of Columns</td>
+    <td style="text-align: center;">Počet sloupců</td>
     <td style="text-align: center;">5</td>
   </tr>
 </table>  
@@ -213,8 +213,8 @@ Data types a column names:
 
 <table>
   <tr>
-    <th style="text-align: center;">Column Name</th>
-    <th style="text-align: center;">Data Type</th>
+    <th style="text-align: center;">Název sloupce</th>
+    <th style="text-align: center;">Datový typ</th>
   </tr>
   <tr>
     <td style="text-align: center;">channel_name</td>
@@ -238,105 +238,105 @@ Data types a column names:
   </tr>
 </table>  
 
-The following data quality checks have been performed to ensure the dataset is accurate, consistent, and ready for analysis.
+Byly provedeny následující kroky vedoucí k zajištění, aby byl dataset připravený pro analýzu.
 
-**Row count check**
-- SQL Query with output:
+**Kontrola počtu řádků**
+- SQL dotaz s výstupem:
 
-<img src="assets/images/sql/data_check/number_of_rows2.png" alt="number of rows" style="border: 0.5px solid black;"/>
+<img src="assets/images/sql/data_check/number_of_rows2.png" alt="počet řádků" style="border: 0.5px solid black;"/>
 
-**Column count check**
-- SQL Query with output:
+**Kontrola počtu sloupců**
+- SQL dotaz s výstupem:
 
-<img src="assets/images/sql/data_check/number_of_columns2.png" style="border: 0.5px solid black;"/>
+<img src="assets/images/sql/data_check/number_of_columns2.png"  alt="počet sloupců"  style="border: 0.5px solid black;"/>
 
-**Column name check**
-- SQL Query with output:  
+**Kontrola názvů sloupců**
+- SQL dotaz s výstupem:
   
-<img src="assets/images/sql/data_check/column_name_check2.png" alt="name of columns" style="border: 0.5px solid black;"/>
+<img src="assets/images/sql/data_check/column_name_check2.png" alt="názvy sloupců" style="border: 0.5px solid black;"/>
 
-**Data type check** 
-- SQL Query with output:
+**Kontrola datových typů** 
+- SQL dotaz s výstupem:
 
-<img src="assets/images/sql/data_check/data_type_check2.png" alt="data types" style="border: 0.5px solid black;"/>
+<img src="assets/images/sql/data_check/data_type_check2.png" alt="datové typy" style="border: 0.5px solid black;"/>
 
-**Duplicate count check**  
-- SQL Query with output:
+**Kontrola duplicit**  
+- SQL dotaz s výstupem:
 
-<img src="assets/images/sql/data_check/duplicates_check3.png" alt="duplicates" style="border: 0.5px solid black;"/>
+<img src="assets/images/sql/data_check/duplicates_check3.png" alt="duplicitní záznamy" style="border: 0.5px solid black;"/>
   
-## Visualization
+## Vizualizace
 
-### Data Visualization 
+### Vizualizace dat
 
-- Dashboard visualization in Power BI shows Top Czech Youtubers in 2024:
+- Dashboardu v Power BI zobrazuje nejlepší české YouTubery v roce 2024:
 
-**Image**
-<img src="assets/images/dashboard/TopYouTubers_CZ2024_DashboardImage2.png" alt="dashboard image"/>  
+**Obrázek**
+<img src="assets/images/dashboard/TopYouTubers_CZ2024_DashboardImage2.png" alt="obrázek dashboardu"/>  
   
 **Gif**
-<img src="assets/images/dashboard_video/DashboardVideo.gif" alt="dashboard video"/>  
+<img src="assets/images/dashboard_video/DashboardVideo.gif" alt="video s dashboardem"/>  
 
-### Measures
+### Výpočty
 
-#### DAX Measures in Power BI
+#### DAX metriky v Power BI
 
-1) Total Subscribers (M)  
+1) Celkový počet odběratelů (M)  
 
-<img src="assets/images/dax_measures/total_subscribers5.png" alt="dax-total subscribers"/>  
+<img src="assets/images/dax_measures/total_subscribers5.png" alt="dax-celkový počet odběratelů"/>  
 
-2) Total Videos  
+2) Celkový počet videí  
 
-<img src="assets/images/dax_measures/total_videos5.png" alt="dax-total videos"/>  
+<img src="assets/images/dax_measures/total_videos5.png" alt="dax-celkový počet videí"/>  
 
-3) Total Views (M)  
+3) Celkový počet zhlédnutí (M)  
 
-<img src="assets/images/dax_measures/total_views5.png" alt="dax-total views"/>  
+<img src="assets/images/dax_measures/total_views5.png" alt="dax-celkový počet zhlédnutí"/>  
 
-4) Average Views Per Video (M)  
+4) Průměrný počet zhlédnutí na video (M)  
 
-<img src="assets/images/dax_measures/avg_views_per_video5.png" alt="dax-avg views per video"/>  
+<img src="assets/images/dax_measures/avg_views_per_video5.png" alt="dax-průměrný počet zhlédnutí na video"/>  
 
-5) Engagement Rate  
+5) Míra zapojení uživatelů  
 
-<img src="assets/images/dax_measures/engagement_rate5.png" alt="dax-engagement rate"/>  
+<img src="assets/images/dax_measures/engagement_rate5.png" alt="dax-míra zapojení"/>  
 
-6) Views Per Subscriber  
+6) Zhlédnutí na odběratele  
 
-<img src="assets/images/dax_measures/views_per_subscriber5.png" alt="dax-views per subscriber"/>  
+<img src="assets/images/dax_measures/views_per_subscriber5.png" alt="dax-zhlédnutí na odběratele"/>  
 
-#### Tableau Measures  
+#### Metriky v Tableau
 
-1) Average Views Per Video  
+1) Průměrný počet zhlédnutí na video  
 
-<img src="assets/images/tableau_measures/avg_views_per_video.png" alt="tableau-avg views per video"/>  
+<img src="assets/images/tableau_measures/avg_views_per_video.png" alt="tableau-průměrný počet zhlédnutí na video"/>  
 
-2) Engagement Rate  
+2) Míra zapojení  
 
-<img src="assets/images/tableau_measures/engagement_rate.png" alt="tableau-engagement rate"/>  
+<img src="assets/images/tableau_measures/engagement_rate.png" alt="tableau-míra zapojení"/>  
 
-3) Views Per Subscriber  
+3) Zhlédnutí na odběratele  
 
-<img src="assets/images/tableau_measures/views_per_subscriber.png" alt="tableau-views per subscriber"/>  
+<img src="assets/images/tableau_measures/views_per_subscriber.png" alt="tableau-zhlédnutí na odběratele"/>  
 
-## Analysis
+## Analýza
 
-### Results overview
+### Přehled výsledků
 
-For this analysis, we're going to focus on the questions that should provide answers to the marketing department.
+V rámci analýzy se pokusíme zodpovědět otázky, které by měly poskytnout odpovědi našemu marketingovému oddělení.  
 
-Here are the main topics we need to answer:
+Hlavní témata jsou:  
 
-- What are the 10 YouTubers (YouTube channels) with the largest subscriber base?
-- Which 10 YouTubers (YouTube channels) have posted the most content?
-- Who are the 10 YouTubers (YouTube channels) with the highest total view count?
-- What are the 10 YouTubers (YouTube channels) that get the highest average views per video?
-- Which 10 YouTubers (YouTube channels) have the best views-to-subscriber ratio?
-- Who are the 10 YouTubers (YouTube channels) with the highest subscriber engagement rate per video?
+- Kterých 10 youtuberů (kanálů) má nejvíce odběratelů?
+- 10 youtuberů (kanálů), kteří zveřejnili nejvíce videí?  
+- Kteří youtubeři (10 nej kanálů) mají nejvyšší počet zhlédnutí videí?
+- Kteří youtubeři (10 nej kanálů) mají nejvyšší průměrný počet zhlédnutí na video?  
+- Kteří youtubeři (10 nej kanálů) mají nejlepší poměr zhlédnutí k odběratelům?  
+- Kterých 10 youtuberů (kanálů) má nejvyšší míru zapojení odběratelů?  
 
-**1) What are the 10 YouTubers (YouTube channels) with the largest subscriber base?**  
+**1) Kterých 10 youtuberů (kanálů) má nejvíce odběratelů?**  
 
-| Rank | Channel Name                  | Subscribers (M) |
+| Rank | Název kanálu                  |   Odběratel (M) |
 |------|-------------------------------|-----------------|
 | 1    | Silvie Mahdal                 |       2.64      |
 | 2    | Puzzle guy                    |       2.56      |
@@ -349,82 +349,82 @@ Here are the main topics we need to answer:
 | 9    | FIZIstyle                     |       1.16      |
 | 10   | Mr. Michal                    |       1.12      |  
 
-**2) Which 10 YouTubers (YouTube channels) have posted the most content?** 
+**2) 10 youtuberů (kanálů), kteří zveřejnili nejvíce videí?** 
 
-| Rank | Channel Name                      | Total Videos |
-|------|-----------------------------------|:------------:|
-| 1    | Radio Free Europe/Radio Liberty   |     9,649    |
-| 2    | Totalfilm.cz                      |     7,812    |
-| 3    | Алексей Ворон                     |     5,001    |
-| 4    | Godzu                             |     3,743    |
-| 5    | Agraelus                          |     3,315    |
-| 6    | Sterakdary                        |     3,085    |
-| 7    | MenT                              |     3,045    |
-| 8    | Alkanhraje                        |     2,952    |
-| 9    | PedrosGame                        |     2,827    |
-| 10   | Alexander Zakshevsky              |     2,780    |  
+| Rank | Název kanálu                      |  Počet videí (M) |
+|------|-----------------------------------|:----------------:|
+| 1    | Radio Free Europe/Radio Liberty   |     9,649        |
+| 2    | Totalfilm.cz                      |     7,812        |
+| 3    | Алексей Ворон                     |     5,001        |
+| 4    | Godzu                             |     3,743        |
+| 5    | Agraelus                          |     3,315        |
+| 6    | Sterakdary                        |     3,085        |
+| 7    | MenT                              |     3,045        |
+| 8    | Alkanhraje                        |     2,952        |
+| 9    | PedrosGame                        |     2,827        |
+| 10   | Alexander Zakshevsky              |     2,780        |  
 
-**3) Who are the 10 YouTubers (YouTube channels) with the highest total view count?**  
+**3) Kteří youtubeři (10 nej kanálů) mají nejvyšší počet zhlédnutí videí?**  
 
-| Rank | Channel Name                          |  Total Views(M) |
-|:---- |:--------------------------------------|:-----------------:|
-| 1    | Puzzle guy                            |      1,607.53     |
-| 2    | MenT                                  |        910.00     |
-| 3    | Baxtrix                               |        776.72     |
-| 4    | FIZIstyle                             |        733.69     |
-| 5    | Milion Plus                           |        675.20     |
-| 6    | SirYakari                             |        620.42     |
-| 7    | Štístko a Poupěnka                    |        602.02     |
-| 8    | ViralBrothers SHOW                    |        552.84     |
-| 9    | Blakkwood Records                     |        540.98     |
-| 10   | Radio Free Europe/Radio Liberty       |        535.21     |  
+| Rank | Název kanálu                          |  Počet zhlédnutí (M) |
+|:---- |:--------------------------------------|:--------------------:|
+| 1    | Puzzle guy                            |      1,607.53        |
+| 2    | MenT                                  |        910.00        |
+| 3    | Baxtrix                               |        776.72        |
+| 4    | FIZIstyle                             |        733.69        |
+| 5    | Milion Plus                           |        675.20        |
+| 6    | SirYakari                             |        620.42        |
+| 7    | Štístko a Poupěnka                    |        602.02        |
+| 8    | ViralBrothers SHOW                    |        552.84        |
+| 9    | Blakkwood Records                     |        540.98        |
+| 10   | Radio Free Europe/Radio Liberty       |        535.21        |  
 
-**4) What are the 10 YouTubers (YouTube channels) that get the highest average views per video?**  
+**4) Kteří youtubeři (10 nej kanálů) mají nejvyšší průměrný počet zhlédnutí na video?**  
 
-| Rank | Channel Name               |  Avg Views Per Video (M) |
-|:---- |:---------------------------|:------------------------:|
-| 1    | ViralBrothers SHOW         |           6.66           |
-| 2    | Mr. Michal                 |           4.56           |
-| 3    | atomic marvel              |           4.19           |
-| 4    | Prague Cello Quartet       |           3.92           |
-| 5    | BESPREDEL                  |           3.81           |
-| 6    | Štístko a Poupěnka         |           3.76           |
-| 7    | Pat a Mat                  |           3.48           |
-| 8    | Silvie Mahdal              |           3.48           |
-| 9    | Slza                       |           3.35           |
-| 10   | Ben Cristovao              |           2.26           |  
+| Rank | Název kanálu             |  Průměrný počet zhlédnutí/video (M) |
+|:---- |:---------------------------|:-----------------------------------:|
+| 1    | ViralBrothers SHOW         |                 6.66                |
+| 2    | Mr. Michal                 |                 4.56                |
+| 3    | atomic marvel              |                 4.19                |
+| 4    | Prague Cello Quartet       |                 3.92                |
+| 5    | BESPREDEL                  |                 3.81                |
+| 6    | Štístko a Poupěnka         |                 3.76                |
+| 7    | Pat a Mat                  |                 3.48                |
+| 8    | Silvie Mahdal              |                 3.48                |
+| 9    | Slza                       |                 3.35                |
+| 10   | Ben Cristovao              |                 2.26                |  
 
-**5) Which 10 YouTubers (YouTube channels) have the best views-to-subscriber ratio?**
+**5) Kteří youtubeři (10 nej kanálů) mají nejlepší poměr zhlédnutí vůči odběratelům?**
 
-| Rank | Channel Name               | Views Per Subscriber |
-|:---- |:---------------------------|:--------------------:|
-| 1    | Štístko a Poupěnka         |         1568         |
-| 2    | Totalfilm.cz               |         1146         |
-| 3    | tynikdy                    |         1143         |
-| 4    | Milion Plus                |         1089         |
-| 5    | Blakkwood Records          |         1065         |
-| 6    | Tvoje tvář má známý hlas   |         994          |
-| 7    | Baxtrix                    |         873          |
-| 8    | Pokáčovo Kanál             |         758          |
-| 9    | TOP veci do 2 minut        |         734          |
-| 10   | Alkanhraje                 |         729          |  
+| Rank | Název kanálu               | Počet zhlédnutí/počet odběratelů |
+|:---- |:---------------------------|:--------------------------------:|
+| 1    | Štístko a Poupěnka         |                1568              |
+| 2    | Totalfilm.cz               |                1146              |
+| 3    | tynikdy                    |                1143              |
+| 4    | Milion Plus                |                1089              |
+| 5    | Blakkwood Records          |                1065              |
+| 6    | Tvoje tvář má známý hlas   |                 994              |
+| 7    | Baxtrix                    |                 873              |
+| 8    | Pokáčovo Kanál             |                 758              |
+| 9    | TOP veci do 2 minut        |                 734              |
+| 10   | Alkanhraje                 |                 729              |  
 
-**6) Who are the 10 YouTubers (YouTube channels) with the highest subscriber engagement rate per video?**
+**6) Kterých 10 youtuberů (kanálů) má nejvyšší míru zapojení odběratelů?  **
 
-| Rank | Channel Name             |  Engagement Rate  |
-|:---- |:-------------------------|:-----------------:|
-| 1    | Suara Injil              |       14.87%      |
-| 2    | Alexander Zakshevsky     |       13.01%      |
-| 3    | Алексей Ворон            |       12.85%      |
-| 4    | SmusaGames               |        9.91%      |
-| 5    | Wedry                    |        9.28%      |
-| 6    | PIERRE XO                |        9.07%      |
-| 7    | Jmenuju Se Martin        |        8.52%      |
-| 8    | MenT                     |        8.49%      |
-| 9    | NejFake                  |        8.37%      |
-| 10   | Stay12                   |        8.33%      |  
+| Rank | Název kanálu             |    Míra zapojení    |
+|:---- |:-------------------------|:-------------------:|
+| 1    | Suara Injil              |        14.87%       |
+| 2    | Alexander Zakshevsky     |        13.01%       |
+| 3    | Алексей Ворон            |        12.85%       |
+| 4    | SmusaGames               |         9.91%       |
+| 5    | Wedry                    |         9.28%       |
+| 6    | PIERRE XO                |         9.07%       |
+| 7    | Jmenuju Se Martin        |         8.52%       |
+| 8    | MenT                     |         8.49%       |
+| 9    | NejFake                  |         8.37%       |
+| 10   | Stay12                   |         8.33%       |  
 
-In this analysis, we will primarily prioritize the key metrics essential for achieving the expected Return on Investment (ROI) for our marketing department, specifically focusing on YouTube channels with the highest number of subscribers, total videos uploaded, and total view count. By analyzing these metrics, we aim to identify the most suitable YouTubers to optimize our marketing department efforts on the platform.  
+V analýze se primárně zaměřujeme na klíčové metriky, které jsou nezbytné pro dosažení očekávané návratnosti investic (ROI) pro naše marketingové oddělení. Konkrétně se soustředíme na YouTube kanály/youtubery s nejvyšším počtem odběratelů, celkovým největším počtem nahraných videí a celkovým největším počtem zhlédnutí. Analyzováním těchto metrik si klademe za cíl identifikovat nejvhodnější youtubery, abychom optimalizovali úsilí našeho marketingového oddělení na YouTube.
 
 ### Validation - Scenarios  
 
