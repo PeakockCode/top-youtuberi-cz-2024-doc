@@ -427,7 +427,7 @@ Cílem tohoto scénáře je posoudit rentabilitu **product placements** prostře
 
 *3 Nejvhodnější youtubeři (YouTube kanály) v 1. scénáři*  
 
-| Pořadí  | NÁZEV KANÁLU       |         Hlavní téma kanálu        |
+| Pořadí  | NÁZEV KANÁLU       | HLAVNÍ TÉMA KANÁLU                |
 |---------|--------------------|-----------------------------------|
 | **1**   | **Mr. Michal**     | **Zábava**                        |
 | 2       | Silvie Mahdal      | Tutoriály kreslení                |
@@ -487,19 +487,19 @@ Cílem tohoto scénáře je vyhodnotit rentabilitu video serie, kdy bychom prost
   
 *3 nejvhodnější youtubeři (YouTube kanály) ve 2. scénáři*  
 
-| Pořadí  | NÁZEV KANÁLU           | Hlavní téma kanál    |
-|---------|------------------------|----------------------|
-| **1**   | **MenT**               | **Herní obsah**      |
-| 2       | Alexander Zakshevsky   | Hudba                |
-| 3       | Godzu                  | Herní obsah          |
-| 3       | PedrosGame             | Herní obsah          |  
+| Pořadí  | NÁZEV KANÁLU           | HLAVNÍ TÉMA KANÁLU    |
+|---------|------------------------|-----------------------|
+| **1**   | **MenT**               | **Herní obsah**       |
+| 2       | Alexander Zakshevsky   | Hudba                 |
+| 3       | Godzu                  | Herní obsah           |
+| 3       | PedrosGame             | Herní obsah           |  
   
 **1) MenT**
    
    - Průměrný počet zhlédnutí na video = 300,000
    - Cena produktu = 200 Kč
    - Potenciální prodej produktu na video = 300,000 * 2 % (konverzní míra) = 6,000.00 (ks) 
-   - Potenciální příjem na video = 6,000.00 (jednotek) * 200 (Kč) = 1,200,000.00 Kč 
+   - Potenciální příjem na video = 6,000.00 (ks) * 200 (Kč) = 1,200,000.00 Kč 
    - Cena kampaně na video = 50,000.00 Kč
    - Počet videí = 12
    - Celkové náklady kampaně = 50,000.00 (Kč) * 12 (videí) = 600,000 Kč
@@ -510,7 +510,7 @@ Cílem tohoto scénáře je vyhodnotit rentabilitu video serie, kdy bychom prost
    - Průměrný počet zhlédnutí na video = 140,000
    - Cena produktu = 200 Kč
    - Potenciální prodej produktů na video = 140,000 * 2 % (konverzní míra) = 2,800.00 (ks) 
-   - Potenciální příjem na video = 2,800.00 (jednotek) * 200 (Kč) = 560,000.00 Kč
+   - Potenciální příjem na video = 2,800.00 (ks) * 200 (Kč) = 560,000.00 Kč
    - Cena kampaně na video = 50,000.00 Kč
    - Počet videí = 12
    - Celkové náklady kampaně = 50,000.00 (Kč) * 12 (videí) = 600,000 Kč
@@ -521,7 +521,7 @@ Cílem tohoto scénáře je vyhodnotit rentabilitu video serie, kdy bychom prost
    - Průměrný počet zhlédnutí na video = 130,000
    - Cena produktu = 200 Kč
    - Potenciální prodej produktů na video = 130,000 * 2 % (konverzní míra) = 2,600.00 (ks)
-   - Potenciální příjem na video = 2,600.00 (jednotek) * 200 (Kč) = 520,000.00 Kč
+   - Potenciální příjem na video = 2,600.00 (ks) * 200 (Kč) = 520,000.00 Kč
    - Cena kampaně na video = 50,000.00 Kč
    - Počet videí = 12
    - Celkové náklady kampaně = 50,000.00 (Kč) * 12 (videí) = 600,000 Kč
@@ -532,7 +532,7 @@ Cílem tohoto scénáře je vyhodnotit rentabilitu video serie, kdy bychom prost
    - Průměrný počet zhlédnutí na video = 130,000
    - Cena produktu = 200 Kč
    - Potenciální prodej produktů na video = 130,000 * 2 % (konverzní míra) = 2,600.00 (ks)
-   - Potenciální příjem na video = 2,600.00 (jednotek) * 200 (Kč) = 520,000.00 Kč
+   - Potenciální příjem na video = 2,600.00 (ks) * 200 (Kč) = 520,000.00 Kč
    - Cena kampaně na video = 50,000.00 Kč
    - Počet videí = 12
    - Celkové náklady kampaně = 50,000.00 (Kč) * 12 (videí) = 600,000 Kč
@@ -540,70 +540,71 @@ Cílem tohoto scénáře je vyhodnotit rentabilitu video serie, kdy bychom prost
 
    Nejlepším (a jediným) řešením v tomto scénáři, pokud chceme dosáhnout zisku, je **MenT** s potenciálním čistým ziskem **600,000.00 Kč**. 
 
-**SQL Query - Variables Initialization for 2nd Scenario**  
+**SQL Query - Inicializace proměnných pro 2. scénář**  
 
-<img src="assets/images/sql/analysis/total_videos_variables.png" alt="2. Scenario - variables" style="border: 0.5px solid black;"/>
+<img src="assets/images/sql/analysis/total_videos_variables.png" alt="2. scénář - proměnné" style="border: 0.5px solid black;"/>
 
-**SQL Query - Code and Output for 2nd Scenario**
+**SQL Query - Kód a výstup pro 2. scénář**
 
-<img src="assets/images/sql/analysis/total_videos_analysis2.png" alt="2. Scenario - output" style="border: 0.5px solid black;"/>
+<img src="assets/images/sql/analysis/total_videos_analysis2.png" alt="2. scénář - výstup" style="border: 0.5px solid black;"/>
   
-#### 3) Scenario: Collaboration with YouTubers (YouTube Channels) with the most views  
+#### 3) Scénář: Spolupráce s youtubery (YouTube kanály) s nejvyšším počtem zhlédnutí
 
 In this scenario, we aim to analyze YouTubers with the highest view counts. Our focus will be on evaluating the profitability of influencer marketing (with a 2.5 to 3-month contract) through collaborations with these YouTubers. To achieve this, we will select the three most suitable YouTubers (YouTube channels) for our campaign.
+V tomto scénáři se zaměříme na analýzu youtuberů s nejvyšším počtem zhlédnutí. Naším cílem bude vyhodnotit rentabilitu influencer marketingu prostřednictvím spolupráce s youtubery (pod 2,5 až 3 měsíční smlouvou). Abychom toho dosáhli, vybereme tři nejvhodnější youtubery (YouTube kanály) pro 3. scénář. 
 
-*Campaign Variables in 3. Scenario* 
+*Proměnné kampaně ve 3. scénáři* 
 
-| Item                                | Value                 |
-|-------------------------------------|-----------------------|
-| Product cost                        | 200 CZK               |
-| Conversion rate                     | 2 %                   |
-| Total campaign cost  (2.5-3 months) | 960,000.00 CZK        |  
+| Proměnná                               | Hodnota               |
+|----------------------------------------|-----------------------|
+| Cena produktu                          | 200 Kč                |
+| Konverzní míra                         | 2 %                   |
+| Celkové náklady kampaně (2,5-3 měsíce) | 960,000.00 Kč         |  
   
-*3 Most Suitable YouTubers (YouTube channels) in 3. Scenario*  
+*3 nejvhodnější youtubeři (YouTube kanály) ve 3. scénáři*  
 
-| Rank | CHANNEL NAME              | MAIN TOPIC               |
-|------|---------------------------|--------------------------|
-| 1    | ViralBrothers SHOW        | Entertainment            |
-| 2    | Štístko a Poupěnka        | Children's entertainment |
-| 3    | Puzzle Guy                | Puzzle solving           |  
+| Rank | NÁZEV KANÁLU              | HLAVNÍ TÉMA KANÁLU               |
+|------|---------------------------|----------------------------------|
+| **1**| **ViralBrothers SHOW**    | **Zábava**                       |
+| 2    | Štístko a Poupěnka        | Zábava pro děti                  |
+| 3    | Puzzle Guy                | Řešení hádanek/puzzle solving/   |  
 
 **1) ViralBrothers SHOW**
    
-   - Average views per video = 6.66 million
-   - Product cost = 200 CZK
-   - Potential product sales per video =  6.66 million * 2 % (conversion rate) = 133,200.00 (units)
-   - Potential revenue per video = 133,200.00 (units) * 200 (CZK) = 26,640,000.00 CZK
-   - Campaign cost (Contract duration: 2.5 to 3 months based on fee variability) =  960,000.00 CZK
-   - Potential net profit =  26,640,000.00 (CZK) - 960,000.00 (CZK) = 25,680,000.00 CZK  
+   - Průměrný počet zhlédnutí na video = 6,66 milionu
+   - Cena produktu = 200 Kč
+   - Potenciální prodej produktu na video = 6,66 milionu * 2 % (konverzní míra) = 133,200.00 (ks)
+   - Potenciální příjem na video = 133,200.00 (ks) * 200 (Kč) = 26,640,000.00 Kč
+   - Náklady na kampaň (délka smlouvy: 2,5 až 3 měsíce na základě variability poplatku) = 960,000.00 Kč
+   - Potenciální čistý zisk = 26,640,000.00 (Kč) - 960,000.00 (Kč) = 25,680,000.00 Kč
 
 **2) Štístko a Poupěnka**
    
-   - Average views per video = 3.76 million
-   - Product cost = 200 CZK
-   - Potential product sales per video = 3.76 million * 2 % (conversion rate) = 75,200.00 (units)
-   - Potential revenue per video = 75,200.00 (units) * 200 (CZK) = 15,040,000.00 CZK
-   - Campaign cost (Contract duration: 2.5 to 3 months based on fee variability) = 960,000.00 CZK
-   - Potential net profit =  15,040,000.00 (CZK) - 960,000.00 (CZK) = 14,080,000.00 CZK  
+   - Průměrný počet zhlédnutí na video = 3,76 milionu
+   - Cena produktu = 200 Kč
+   - Potenciální prodej produktu na video = 3,76 milionu * 2 % (konverzní míra) = 75,200.00 (ks)
+   - Potenciální příjem na video = 75,200.00 (ks) * 200 (Kč) = 15,040,000.00 Kč
+   - Náklady na kampaň (délka smlouvy: 2,5 až 3 měsíce na základě variability poplatku) = 960,000.00 Kč
+   - Potenciální čistý zisk = 15,040,000.00 (Kč) - 960,000.00 (Kč) = 14,080,000.00 Kč
 
 **3) Puzzle guy**
    
-   - Average views per video = 1.75 million
-   - Product cost = 200 CZK
-   - Potential product sales per video = 1.75 million * 2 % (conversion rate) = 35,000.00 (units)
-   - Potential revenue per video = 35,000.00 (units) * 200 (CZK) = 7,000,000.00 CZK
-   - Campaign cost (Contract duration: 2.5 to 3 months based on fee variability) = 960,000.00 CZK
-   - Potential net profit =  7,000,000.00 (CZK) - 960,000.00 (CZK) = 6,040,000.00 CZK
+   - Průměrný počet zhlédnutí na video = 1,75 milionu
+   - Cena produktu = 200 Kč
+   - Potenciální prodej produktu na video = 1,75 milionu * 2 % (konverzní míra) = 35,000.00 (ks)
+   - Potenciální příjem na video = 35,000.00 (ks) * 200 (Kč) = 7,000,000.00 Kč
+   - Náklady na kampaň (Délka smlouvy: 2,5 až 3 měsíce na základě variability poplatku) = 960,000.00 Kč
+   - Potenciální čistý zisk = 7,000,000.00 (Kč) - 960,000.00 (Kč) = 6,040,000.00 Kč
 
-     Best alternative in this scenario is **ViralBrothers SHOW** with **25,680,000.00 CZK** potential net profit.  
+     Nejlepší alternativou v tomto scénáři je kanál **ViralBrothers SHOW** s s potenciálním čistým ziskem **25,680,000.00 Kč**.  
 
-**SQL Query - Variables Initialization for 3rd Scenario**  
+**SQL Query - Inicializace proměnných pro 3. scénář**  
 
-<img src="assets/images/sql/analysis/total_views_variables.png" alt="3. Scenario - variables" style="border: 0.5px solid black;"/>  
+<img src="assets/images/sql/analysis/total_views_variables.png" alt="3. scénář - proměnné" style="border: 0.5px solid black;"/>  
 
-**SQL Query - Code and Output for 3rd Scenario**  
+**SQL Query - Kód a výstup pro 3. scénář**  
 
-<img src="assets/images/sql/analysis/total_views_analysis3.png" alt="3. Scenario - output" style="border: 0.5px solid black;"/>  
+<img src="assets/images/sql/analysis/total_views_analysis3.png" alt="3. scénář - výstup" style="border: 0.5px solid black;"/>  
 
 ## Conclusion
 
