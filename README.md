@@ -79,7 +79,7 @@ Abychom vymezili rozsah a obsah dashboardu, musíme nejprve identifikovat někte
 
 |    Číslo otázky    |                                    Otázka                                     |
 |:------------------:|:------------------------------------------------------------------------------|
-|         1          | Kdo jsou nejlepší youtuberi podle počtu odběratelů?                           |
+|         1          | Kdo jsou nejlepší youtubeři podle počtu odběratelů?                           |
 |         2          | Které kanály vyprodukovaly nejvíce videí?                                     |
 |         3          | Které kanály mají nejvíce zhlédnutí?                                          |
 |         4          | Které kanály dosahují nejvyššího průměrného počtu zhlédnutí na video?         |
