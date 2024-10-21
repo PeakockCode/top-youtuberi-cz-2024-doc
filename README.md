@@ -56,7 +56,7 @@ Potřebná data o nejlepších youtuberech v České republice pro rok 2024 zahr
 - Počet nahraných videí
 - Míra zapojení
 
-Zdroje dat:
+Zdroje dat:  
 1) <a href="https://starngage.com/plus/en-us/influencer/ranking/youtube/czech-republic" target="_blank">Žebříček nejlepších českých youtuberů</a>  
 2) <a href="https://developers.google.com/youtube/v3/getting-started" target="_blank">YouTube API</a>  
 3) <a href="https://hypeauditor.com" target="_blank">Další statistiky</a>  
@@ -126,11 +126,9 @@ Tabulky, KPI ukazatele (metriky jako je míra zapojení, apod.), sloupcové a da
   </tr>
 </table>
 
-## Realizace projektu
+## Proces vývoje - obecný postup
 
-### Obecný postup
-
-Jaký je celkový proces vývoje?  
+Jak probíhá celkový vývoj?  
 - Získání dat: Získání potřebných dat (viz část o zdrojích dat).
 - Průzkum dat: Analyzování dat v Excelu, abychom porozuměli jejich struktuře a kvalitě.
 - Načítání dat: Importování dat do SQL Serveru pro další zpracování.
@@ -142,7 +140,7 @@ Jaký je celkový proces vývoje?
 - Sdílení: Sdílení vizualizací, doporučení a dokumentace s marketingovým oddělením.
 - Zpětná vazba: Shromáždění zpětné vazby od marketingového oddělení/zákazníka a provedení nezbytných úprav projektu (to obvykle zahrnuje také návrat k předchozím krokům).
 
-### Zkoumání dat
+##  Zkoumání dat
 
 V další fázi získáme přehled o tom, co data obsahují, identifikujeme chyby, nesrovnalosti a další problémy (např. neznámé znaky, poškozený/chybějící text apod.).
 
