@@ -409,9 +409,9 @@ Hlavní témata jsou:
 
 V analýze se primárně zaměřujeme na klíčové metriky, které jsou nezbytné pro dosažení očekávané návratnosti investic (ROI) pro naše marketingové oddělení. Konkrétně se soustředíme na YouTube kanály/youtubery s nejvyšším počtem odběratelů, celkovým největším počtem nahraných videí a celkovým největším počtem zhlédnutí. Analyzováním těchto metrik si klademe za cíl identifikovat nejvhodnější youtubery, abychom optimalizovali úsilí našeho marketingového oddělení na YouTube.
 
-### Scenarios  
+### Simulace scénářů  
 
-These metrics (YouTube channels with the highest number of subscribers, total videos uploaded, and total views) will be used in three simulation scenarios through which we will attempt to find suitable YouTubers. These scenarios will help us evaluate different approaches and campaign costs, allowing us to visualize the varying profitability of individual campaigns.
+Tyto metriky (YouTube kanály s nejvyšším počtem odběratelů, celkovým počtem nahraných videí a celkovým počtem zhlédnutí) budou použity ve třech simulačních scénářích, prostřednictvím kterých se pokusíme najít vhodné youtubery. Tyto scénáře nám pomohou vyhodnotit různé přístupy s rozdílnými náklady na kampaně, což nám umožní vizualizovat rentabilitu jednotlivých kampaní v rámci spolupráce s youtubery.
 
 #### 1) Scenario: Collaboration (based on product placement) with YouTubers (YouTube Channels) with the Most Subscribers 
 
