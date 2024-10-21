@@ -414,7 +414,7 @@ Již dříve zmíněné metriky (počet odběratelů, počet nahraných videí a
 
 #### 1) Scénář: Spolupráce (na základě product placement) s youtubery (YouTube kanály) s nejvyšším počtem odběratelů
 
-Cílem tohoto scénáře je posoudit rentabilitu **product placements** prostřednictvím spolupráce s YouTubery, kteří mají nejvyšší počet odběratelů. Identifikujeme nejdříve 3 nejlepší/nejvhodnější youtubery (kanály).  
+Cílem tohoto scénáře je posoudit rentabilitu **product placements** prostřednictvím spolupráce s youtubery, kteří mají nejvyšší počet odběratelů. Identifikujeme nejdříve 3 nejlepší/nejvhodnější youtubery (kanály).  
 
 *Proměnné v 1. scénáři*  
 
