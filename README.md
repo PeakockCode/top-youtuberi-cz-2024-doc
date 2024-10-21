@@ -78,7 +78,7 @@ Zdroje dat:
 
 Abychom vymezili rozsah a obsah dashboardu, musíme nejprve identifikovat některé klíčové otázky, na které by měl odpovídat:  
 
-|    číslo otázky    |                                    Otázka                                     |
+|    Číslo otázky    |                                    Otázka                                     |
 |:------------------:|:------------------------------------------------------------------------------|
 |         1          | Kdo jsou nejlepší youtuberi podle počtu odběratelů?                           |
 |         2          | Které kanály vyprodukovaly nejvíce videí?                                     |
