@@ -78,14 +78,15 @@ Zdroje dat:
 
 Abychom vymezili rozsah a obsah dashboardu, musíme nejprve identifikovat některé klíčové otázky, na které by měl odpovídat:  
 
-|      Number      |                                    Question                                   |
-|:----------------:|:------------------------------------------------------------------------------|
-|         1        | Kdo jsou nejlepší youtuberi podle počtu odběratelů?                           |
-|         2        | Které kanály vyprodukovaly nejvíce videí?                                     |
-|         3        | Které kanály mají nejvíce zhlédnutí?                                          |
-|         4        | Které kanály dosahují nejvyššího průměrného počtu zhlédnutí na video?         |
-|         5        | Které kanály mají nejlepší poměr počtu zhlédnutí vůči počtu odběratelům?      |
-|         6        | Které kanály vykazují nejsilnější míru zapojení odběratelů*?                  |    
+|    číslo otázky    |                                    Otázka                                     |
+|:------------------:|:------------------------------------------------------------------------------|
+|         1          | Kdo jsou nejlepší youtuberi podle počtu odběratelů?                           |
+|         2          | Které kanály vyprodukovaly nejvíce videí?                                     |
+|         3          | Které kanály mají nejvíce zhlédnutí?                                          |
+|         4          | Které kanály dosahují nejvyššího průměrného počtu zhlédnutí na video?         |
+|         5          | Které kanály mají nejlepší poměr počtu zhlédnutí vůči počtu odběratelům?      |
+|         6          | Které kanály vykazují nejsilnější míru zapojení odběratelů*?                  |  
+
 * *Míra zapojení odběratelů - procento diváků, kteří interagují s obsahem influencera (lajky, komentáře, apod.).*  
 
 Tohle jsou některé základní otázky, na které budeme snažit odpovědět, abychom dosáhli našeho cíle.
