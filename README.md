@@ -461,7 +461,7 @@ Cílem tohoto scénáře je posoudit rentabilitu **product placements** prostře
    - Náklady na kampaň (jednorázový poplatek/období) = 500 000,00 Kč  
    - Potenciální čistý zisk = 7 000 000,00 (Kč) - 500 000,00 (Kč) = 6 500 000,00 Kč  
 
-   Nejlepší alternativou v tomto scénáři je Mr. Michal s potenciálním čistým ziskem 17 740 000,00 Kč.  
+   Nejlepší alternativou v tomto scénáři je **Mr. Michal** s potenciálním čistým ziskem **17 740 000,00 Kč**.  
 
 **SQL Query - Inicializace proměnných pro 1. scénář**  
 
@@ -485,60 +485,60 @@ Cílem tohoto scénáře je vyhodnotit rentabilitu video serie, kdy bychom prost
 | Počet videí                 | 12                   |
 | Celkové náklady na kampaň   | 600,000.00 Kč        |  
   
-*3 Most Suitable YouTubers (YouTube channels) in 2. Scenario*  
+*3 nejvhodnější youtubeři (YouTube kanály) ve 2. scénáři*  
 
 | Pořadí  | NÁZEV KANÁLU           | Hlavní téma kanál    |
 |---------|------------------------|----------------------|
-| **1**   | **MenT**               | **Gaming content**   |
-| 2       | Alexander Zakshevsky   | Music                |
-| 3       | Godzu                  | Gaming content       |
-| 3       | PedrosGame             | Gaming content       |  
+| **1**   | **MenT**               | **Herní obsah**      |
+| 2       | Alexander Zakshevsky   | Hudba                |
+| 3       | Godzu                  | Herní obsah          |
+| 3       | PedrosGame             | Herní obsah          |  
   
 **1) MenT**
    
-   - Average views per video = 300,000
-   - Product cost = 200 CZK
-   - Potential product sales per video =  300,000 * 2 % (conversion rate) = 6,000.00 (units)  
-   - Potential revenue per video = 6,000.00 (units) * 200 (CZK) = 1,200,000.00 CZK  
-   - Campaign cost per video = 50,000.00 CZK
-   - Number of videos = 12
-   - Total campaign cost = 50,000.00 (CZK) * 12 (videos) = 600,000 CZK
-   - Potential net profit = 1,200,000.00 (CZK) - 600,000 (CZK) = 600,000.00 CZK  
+   - Průměrný počet zhlédnutí na video = 300,000
+   - Cena produktu = 200 Kč
+   - Potenciální prodej produktu na video = 300,000 * 2 % (konverzní míra) = 6,000.00 (ks) 
+   - Potenciální příjem na video = 6,000.00 (jednotek) * 200 (Kč) = 1,200,000.00 Kč 
+   - Cena kampaně na video = 50,000.00 Kč
+   - Počet videí = 12
+   - Celkové náklady kampaně = 50,000.00 (Kč) * 12 (videí) = 600,000 Kč
+   - Potenciální čistý zisk = 1,200,000.00 (Kč) - 600,000 (Kč) = 600,000.00 Kč 
 
 **2) Alexander Zakshevsky**
    
-   - Average views per video = 140,000
-   - Product cost = 200 CZK
-   - Potential product sales per video = 140,000 * 2 % (conversion rate) = 2,800.00 (units)
-   - Potential revenue per video = 2,800.00 (units) * 200 (CZK) = 560,000.00 CZK
-   - Campaign cost per video = 50,000.00 CZK
-   - Number of videos = 12
-   - Total campaign cost = 50,000.00 (CZK) * 12 (videos) = 600,000 CZK
-   - Potential net profit = 560,000.00 (CZK) - 600,000 (CZK) = -40,000.00 CZK **(potential loss)** 
+   - Průměrný počet zhlédnutí na video = 140,000
+   - Cena produktu = 200 Kč
+   - Potenciální prodej produktů na video = 140,000 * 2 % (konverzní míra) = 2,800.00 (ks) 
+   - Potenciální příjem na video = 2,800.00 (jednotek) * 200 (Kč) = 560,000.00 Kč
+   - Cena kampaně na video = 50,000.00 Kč
+   - Počet videí = 12
+   - Celkové náklady kampaně = 50,000.00 (Kč) * 12 (videí) = 600,000 Kč
+   - Potenciální čistý zisk = 560,000.00 (Kč) - 600,000 (Kč) = -40,000.00 Kč **(potenciální ztráta)**
 
 **3) Godzu**
    
-   - Average views per video = 130,000
-   - Product cost = 200 CZK
-   - Potential product sales per video = 130,000 * 2 % (conversion rate) = 2,600.00 (units)
-   - Potential revenue per video = 2,600.00 (units) * 200 (CZK) = 520,000.00 CZK
-   - Campaign cost per video = 50,000.00 CZK
-   - Number of videos = 12
-   - Total campaign cost = 50,000.00 (CZK) * 12 (videos) = 600,000 CZK
-   - Potential net profit =  520,000.00 (CZK) - 600,000 (CZK) = -80,000.000 (CZK) **(potential loss)** 
+   - Průměrný počet zhlédnutí na video = 130,000
+   - Cena produktu = 200 Kč
+   - Potenciální prodej produktů na video = 130,000 * 2 % (konverzní míra) = 2,600.00 (ks)
+   - Potenciální příjem na video = 2,600.00 (jednotek) * 200 (Kč) = 520,000.00 Kč
+   - Cena kampaně na video = 50,000.00 Kč
+   - Počet videí = 12
+   - Celkové náklady kampaně = 50,000.00 (Kč) * 12 (videí) = 600,000 Kč
+   - Potenciální čistý zisk = 520,000.00 (Kč) - 600,000 (Kč) = -80,000.00 (Kč) **(potenciální ztráta)**
 
 **3) PedrosGame**
    
-   - Average views per video = 130,000
-   - Product cost = 200 CZK
-   - Potential product sales per video = 130,000 * 2 % (conversion rate) = 2,600.00 (units)
-   - Potential revenue per video = 2,600.00 (units) * 200 (CZK) = 520,000.00 CZK
-   - Campaign cost per video = 50,000.00 CZK
-   - Number of videos = 12
-   - Total campaign cost = 50,000.00 (CZK) * 12 (videos) = 600,000 CZK
-   - Potential net profit =  520,000.00 (CZK) - 600,000 (CZK) = -80,000.000 (CZK) **(potential loss)** 
+   - Průměrný počet zhlédnutí na video = 130,000
+   - Cena produktu = 200 Kč
+   - Potenciální prodej produktů na video = 130,000 * 2 % (konverzní míra) = 2,600.00 (ks)
+   - Potenciální příjem na video = 2,600.00 (jednotek) * 200 (Kč) = 520,000.00 Kč
+   - Cena kampaně na video = 50,000.00 Kč
+   - Počet videí = 12
+   - Celkové náklady kampaně = 50,000.00 (Kč) * 12 (videí) = 600,000 Kč
+   - Potenciální čistý zisk = 520,000.00 (Kč) - 600,000 (Kč) = -80,000.00 (Kč) **(potenciální ztráta)**
 
-   The best and only alternative in this scenario, if we want to achieve a profit, is **MenT** with **600,000.00 CZK** potential net profit.  
+   Nejlepším (a jediným) řešením v tomto scénáři, pokud chceme dosáhnout zisku, je **MenT** s potenciálním čistým ziskem **600,000.00 Kč**. 
 
 **SQL Query - Variables Initialization for 2nd Scenario**  
 
