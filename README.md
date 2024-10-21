@@ -641,7 +641,7 @@ Ve všech kategoriích dominují youtubeři (YouTube kanály) zaměřující se 
 
 4) **Nejlepší youtubeři pro spolupráci na základě našich zjištění jsou ViralBrothers SHOW a Mr. Michal.** Jsou nejlepší volbou nejen díky žánru, na který se specializují (zábavní obsah), a jež je širší ve srovnání s ostatními vybranými youtubery, ale mají také poměrně velkou základnu odběratelů. To je pak ve spojení s vysokým potenciálním ziskem indikátor, že jsou skutečně vhodnými kandidáty pro dlouhodobou spolupráci. Pokud hledáme specifický žánr, jako je kreslení nebo řešení hádanek, pak by také Silvie Mahdal, případně Puzzle Guy, mohli být dobrou volbou. Jejich základna odběratelů a míra zapojení jsou nejvyšší, ale jejich obsah je zaměřen na úzké publikum.
 
-#### Možný/potenciální zisk  
+#### Potenciální zisk  
 
 1) Podepsání smlouvy s YouTube kanálem ViralBrothers SHOW by mohlo přinést čistý zisk ve výši 25 680 000 Kč.  
 2) Spolupráce s youtuberem Mr. Michalem by nám mohla přinést čistý zisk 17 740 000 Kč.
