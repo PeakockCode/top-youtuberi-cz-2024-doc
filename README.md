@@ -118,7 +118,7 @@ Jak probíhá celkový vývoj?
 - Testování dat: Ověření integrity a přesnosti dat pomocí SQL Serveru.
 - Vizualizace dat: Vytvoření prezentace dat v Power BI nebo Tableau.
 - Formulace poznatků: Formulace poznatků a vyvození závěrů na základě vizualizovaných dat.
-- Dokumentace: Příprava dokumentace (včetně komentářů) na podporu konečných závěrů.
+- Dokumentace: Příprava dokumentace (včetně komentářů) na podporu závěrů.
 - Sdílení: Sdílení vizualizací, doporučení a dokumentace s marketingovým oddělením.
 - Zpětná vazba: Shromáždění zpětné vazby od marketingového oddělení/zákazníka a provedení nezbytných úprav projektu (to obvykle zahrnuje také návrat k předchozím krokům).
 
