@@ -61,7 +61,7 @@ Zdroje dat:
 2) <a href="https://developers.google.com/youtube/v3/getting-started" target="_blank">YouTube API</a>  
 3) <a href="https://hypeauditor.com" target="_blank">Další statistiky</a>  
 
-## Potřebné kroky projektu:  
+## Fáze projektu:  
 
 - Návrh
 - Realizace projektu
@@ -90,101 +90,101 @@ Abychom vymezili rozsah a obsah dashboardu, musíme nejprve identifikovat někte
 
 Tohle jsou některé základní otázky, na které budeme snažit odpovědět, abychom dosáhli našeho cíle.
 
-### Dashboard Visualization
+### Vizualizace dashboardu
 
-The data visuals that will be suitable for answering our questions include:  
-Tables, Scorecards (Engagement metrics), Bar charts, and other visualizations such as Treemaps.
+Vizualizace, vhodné pro zodpovězení našich otázek, zahrnují:
+Tabulky, KPI ukazatele (metriky jako je míra zapojení, apod.), sloupcové a další grafy.
 
-**Dasbhoard mockup:**
+**Návrh dashboardu:**
 
-![Dasbhoard mockup](assets/images/dashboard/TopYouTubers_CZ2024_DashboardMockup2.png)
+![Návrh dashboardu](assets/images/dashboard/TopYouTubers_CZ2024_DashboardMockup2.png)
 
-### Tools requirements
+### Využité programy
 
 **Tools required for the Process**
 
 <table>
   <tr>
-    <th style="text-align: center;">Tool</th>
-    <th style="text-align: center;">Reason</th>
+    <th style="text-align: center;">Program</th>
+    <th style="text-align: center;">Důvod</th>
   </tr>
   <tr>
     <td style="text-align: left;">Jupyter Lab</td>
-    <td style="text-align: left;">Data retrieval</td>
+    <td style="text-align: left;">Získání dat</td>
   </tr>
   <tr>
     <td style="text-align: left;">MS Excel</td>
-    <td style="text-align: left;">Data exploration</td>
+    <td style="text-align: left;">Průzkum dat</td>
   </tr>
   <tr>
     <td style="text-align: left;">MS SQL Server</td>
-    <td style="text-align: left;">Data cleaning, preparation, testing and analysis</td>
+    <td style="text-align: left;">Čistění, příprava, testování a analýza dat</td>
   </tr>
     <tr>
     <td style="text-align: left;">Power BI/Tableau</td>
-    <td style="text-align: left;">Data visualization</td>
+    <td style="text-align: left;">Vizualizace</td>
   </tr>
 </table>
 
-## Project building
+## Realizace projektu
 
-### General Workflow
+### Obecný postup
 
-What’s the overall process to develop the solution?
+Jaký je celkový proces vývoje?  
+- Získání dat: Získání potřebných dat (viz část o zdrojích dat).
+- Průzkum dat: Analyzování dat v Excelu, abychom porozuměli jejich struktuře a kvalitě.
+- Načítání dat: Importování dat do SQL Serveru pro další zpracování.
+- Čistění dat: Použití SQL dotazů k očištění a standardizaci dat pro pozdější analýzu.
+- Testování dat: Ověření integrity a přesnosti dat pomocí SQL Serveru.
+- Vizualizace dat: Vytvoření prezentace dat v Power BI nebo Tableau.
+- Formulace poznatků: Formulace poznatků a vyvození závěrů na základě vizualizovaných dat.
+- Dokumentace: Příprava dokumentace (včetně komentářů) na podporu konečných závěrů.
+- Sdílení: Sdílení vizualizací, doporučení a dokumentace s marketingovým oddělením.
+- Zpětná vazba: Shromáždění zpětné vazby od marketingového oddělení/zákazníka a provedení nezbytných úprav projektu (to obvykle zahrnuje také návrat k předchozím krokům).
 
-- Data Acquisition: Retrieve the necessary data (see the section on Data Sources).
-- Data Exploration: Analyze the data in Excel to understand its structure and general quality.
-- Data Loading: Import the data into SQL Server for further processing.
-- Data Cleaning: Use SQL queries to clean and standardize the data for later analysis.
-- Data Testing: Verify the integrity and accuracy of the data using SQL Server.
-- Data Visualization: Create visual representations of the data in Power BI or Tableau.
-- Insights Formulation: Derive findings and conclusions based on the visualized data.
-- Documentation: Prepare documentation (including commentary) to support the final conclusions.
-- Sharing: Share the final visualizations, recommendations, and documentation with the marketing department
-- Feedback: Gather feedback from the marketing department/client and make any necessary adjustments to the project (this usually involves revisiting previous steps and should be part of every previous step).
+### Zkoumání dat
 
-### Data exploration
+V další fázi získáme přehled o tom, co data obsahují, identifikujeme chyby, nesrovnalosti a další problémy (např. neznámé znaky, poškozený/chybějící text apod.).
 
-In the next phase, we gain an overview of what the data contains, identifying errors, inconsistencies, and any other issues (e.g., unknown characters, corrupted text, etc.).
+- Co jsme zjistili z úvodního průzkumu dat? Co nás zaujalo? Jaké počáteční nedostatky vidíme a jsme skutečně spokojeni s kvalitou a množstvím dat (nikdy asi nebudeme úplně spokojeni s daty, která máme k dispozici)?
 
-- What are our findings from the initial exploration of the data? What has caught our attention? What initial shortcomings do we see, and are we satisfied with the quality and quantity of the data?
+ - Dále určíme, zda jsou naše data dostatečující: V našem případě se zaměřujeme na to, zda máme alespoň pět základních sloupců, které obsahují potřebná data pro analýzu (viz část o tom, jaká data vyžaduje řešení projektu). Pokud tomu tak není, budeme muset kontaktovat klienta (naše marketingové oddělení) pro získání dalších informací.
 
- - We are determining whether we have sufficient data: In our case, we focus on whether we have at least five essential columns that contain the data needed for this analysis (see the section on necessary data to achieve the goal). If this is not the case, we would need to contact the client (marketing department) for further information.
+ - První sloupec obsahuje nejen název kanálu, ale také ID kanálu. Data jsou oddělena symbolem @, což nám pomůže správně extrahovat názvy kanálů.
 
-- The first column contains not only the channel name but also the channel ID. The data are separated by the @ symbol, which will help us extract the names.
+ - Některé sloupce obsahují nesprávné formáty dat nebo v nich dokonce chybějí data. Je nutné potvrdit, zda jsou tyto sloupce potřebné. Pokud ano, budeme se jimi dále zabývat během přípravné fáze dat.
 
-- Some columns contain incorrect data formats or even missing data. It is necessary to confirm whether these columns are needed, and if so, we will address them further during the data preparation.
+- V současnosti obsahuje náš dataset také nepotřebné sloupce. Je proto dobré zvážit, zda některé/všechny z těchto sloupců odstraníme a jakým způsobem to provedeme.
 
-- We actually have more data than we currently need. Therefore, it is also necessary to focus on this and decide whether we will remove some of these columns and how we will do so.
+## Čistění a testování dat
 
-## Data cleaning and testing
+### Čistění a příprava
 
-### Data cleaning and preparation
+Cílem je upravit náš dataset tak, aby byl připravený k analýze.
 
-The aim is to modify our dataset to ensure it is organized and ready for analysis.
+##### Data by měla splňovat následující kritéria a omezení:  
 
-##### The processed data should meet the following criteria and limitations:
+- Měly by být zachovány pouze relevantní sloupce.
+- Je nutné odstranit všechny duplicity v relevantních sloupcích.
+- Je potřeba standardizovat data (přejmenovat názvy sloupců, získat jednoznačné identifikátory, jako jsou ID, názvy kanálů apod.).
+- Musíme zvolit vhodné datové typy v jednotlivých sloupcích.
+- Sloupce by neměly obsahovat null hodnoty.
 
-Only relevant columns should be kept.
-We should remove all duplicates in the relevant columns.
-We need to standardize the data (rename column names, retrieve unambiguous identifiers such as IDs, channel names, etc.).
-The data types in the columns must be suitable for the data in each column.
-No column should contain null values.
 
-#### What steps are needed to clean and modify the data into the required format?
+#### Jaké kroky jsou potřeba k očištění a úpravě dat do požadovaného formátu?
 
-- Remove Duplicates - There are no duplicates in this dataset.
-- **Standardize the Data** - Extract YouTube channel names from the first column and rename columns using appropriate aliases.
-- Remove null (or blank Values) - We do not need columns with NULL or blank values in this case.
-- **Remove unnecessary Columns** - Eliminate irrelevant columns by selecting only the relevant ones (creating a special view).  
+- **Odstranit duplicity** - V tomto datasetu žádné nejsou.
+- **Standardizovat data** - Extrahovat názvy YouTube kanálů z prvního sloupce a přejmenovat tento i ostatní sloupce pomocí vhodných aliasů.
+- **Odstranit NULL (nebo prázdné) hodnoty** - V tomto případě nepotřebujeme dále pracovat se sloupci s hodnotami NULL (nebo prázdnými).
+- **Odstranit nepotřebné sloupce** - Eliminovat irelevantní sloupce výběrem pouze relevantních (vytvoříme view).
 
-**1) Standardize data**  
+**1) Očištění a standardizování dat**  
 
-<img src="assets/images/sql/cleaning/1.step-standardize_data3.png" alt="1. step of data cleaning" style="border: 0.5px solid black;"/>
+<img src="assets/images/sql/cleaning/1.step-standardize_data3.png" alt="1. krok očištění dat" style="border: 0.5px solid black;"/>
 
-**2) Create the SQL view**   
+**2) Vytvoření SQL pohledu**   
 
-<img src="assets/images/sql/cleaning/2.step-create_view.png" alt="2. step creating view" style="border: 0.5px solid black;"/>
+<img src="assets/images/sql/cleaning/2.step-create_view.png" alt="2. krok vytváření pohledu" style="border: 0.5px solid black;"/>
 
 
 ### Data testing
