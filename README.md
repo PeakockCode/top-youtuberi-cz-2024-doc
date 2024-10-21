@@ -55,7 +55,7 @@ Potřebná data o nejlepších youtuberech v České republice pro rok 2024 zahr
 - Počet nahraných videí
 - Míra zapojení
 
-Zdroje dat:  
+Zdroj dat:  
 1) <a href="https://starngage.com/plus/en-us/influencer/ranking/youtube/czech-republic" target="_blank">Žebříček nejlepších českých youtuberů</a>  
 2) <a href="https://developers.google.com/youtube/v3/getting-started" target="_blank">YouTube API</a>  
 3) <a href="https://hypeauditor.com" target="_blank">Další statistiky</a>  
