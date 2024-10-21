@@ -191,7 +191,7 @@ Cílem je upravit náš dataset tak, aby byl připravený k analýze.
     <td style="text-align: center;">5</td>
   </tr>
 </table>  
-
+  
   
 - Data types a column names  
 
