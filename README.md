@@ -31,67 +31,64 @@
 
 
 
-## Intention
+## Účel projektu
 
-### Goal
-The marketing department wants to identify and analyze the top YouTubers in the Czech Republic for 2024 to determine which content creators would be the best fit for marketing campaigns next year. They want to focus on the YouTube channels of the top 100 YouTubers and would like to know if it is sufficient to use public sources to obtain the data.
+### Cíl
+Marketingové oddělení chce identifikovat a analyzovat nejlepší youTubery v České republice za rok 2024, aby zjistilo, kteří tvůrci by byli nejvhodnější, především z finančního pohledu, pro marketingové kampaně v příštím roce. Mají v plánu se zaměřit na 100 nejlepších youtuberů a chtějí vědět, zda je dostačující vycházet z veřejných zdrojů.  
 
-### Solution Idea
-We need to identify the metrics and KPIs that we can use to compare the data..
-The goal is to create a dashboard that provides information to help the marketing team make informed decisions about which YouTubers are the right fit for collaboration or to determine whether additional information is needed. The dashboard should include key metrics such as:
-- Number of subscribers
-- Total views per YouTuber
-- Total uploaded videos per YouTuber
-- Subscriber engagement rate
-- etc.
+### Návrh řešení
+Je potřeba určit metriky a KPI, které můžeme použít pro porovnání dat. Cílem je vytvořit dashboard, který poskytne informace a pomůže marketingovému týmu učinit informované rozhodnutí o tom, kteří youtubeři jsou vhodní ke spolupráci. Případně dojdeme ke zjištění, že je potřebné získat další informace. Dashboard by měl obsahovat klíčové metriky, jako například:  
 
-## Data origin
-We need to identify all the necessary data and determine the data sources required to reach our goal. It is also important to consider data storage, the size of the dataset we need, how often we need to refresh the data, and other relevant factors.
+- Počet odběratelů  
+- Celkový počet zhlédnutí na youtubera  
+- Celkový počet nahraných videí na youtubera  
+- Míra zapojení odběratelů  
+- apod.  
 
-**What data set is required to reach our goals?**  
+## Zdroj dat
+Musíme identifikovat všechna potřebná data a určit zdroje nezbytné k dosažení cíle. Je také důležité zvážit další faktory jako je úložiště dat, velikost datasetu, frekvence aktualizace dat, apod.  
 
-The necessary data about the top YouTubers in the Czech Republic for 2024 includes the YouTuber names and the previously mentioned key metrics such as:
+**Jaká data jsou potřeba pro dosažení našich cílů?**  
+Potřebná data o nejlepších youtuberech v České republice pro rok 2024 zahrnují jména youtuberů a již zmíněné klíčové metriky, jako jsou:  
 
-- Number of subscribers
-- Number of views
-- Number of uploaded videos
-- Engagement rate
-- etc.
+- Počet odběratelů
+- Počet zhlédnutí
+- Počet nahraných videí
+- Míra zapojení
 
-Source of the data:  
-1) <a href="https://starngage.com/plus/en-us/influencer/ranking/youtube/czech-republic" target="_blank">Ranking of the top Czech YouTubers</a>  
+Zdroje dat:
+1) <a href="https://starngage.com/plus/en-us/influencer/ranking/youtube/czech-republic" target="_blank">Žebříček nejlepších českých youtuberů</a>  
 2) <a href="https://developers.google.com/youtube/v3/getting-started" target="_blank">YouTube API</a>  
-3) <a href="https://hypeauditor.com" target="_blank">Other statistics</a>  
+3) <a href="https://hypeauditor.com" target="_blank">Další statistiky</a>  
 
-## Project Steps
+## Potřebné kroky projektu:  
 
-- Design  
-- Project building  
-- Data cleaning and testing  
-- Visualization  
-- Analysis  
-- Conclusion  
+- Návrh
+- Realizace projektu
+- Čistění a testování dat
+- Vizualizace
+- Analýza
+- Závěr
 
-## Dashboard Design
+## Návrh dashboardu  
 
-### Required Dashboard Elements
+### Požadované prvky dashboardu  
 
-**What should be included in the dashboard based on the specified requirements?**  
+**Co by mělo být součástí dashboardu na základě stanovených požadavků?**  
 
-To outline the content, we first need to identify some key questions that the dashboard should answer:
+Abychom vymezili rozsah a obsah dashboardu, musíme nejprve identifikovat některé klíčové otázky, na které by měl odpovídat:  
 
 |      Number      |                                    Question                                   |
 |:----------------:|:------------------------------------------------------------------------------|
-|         1        | Who are the leading YouTubers by number of subscribers?                       |
-|         2        | Which channels have uploaded the most videos?                                 |
-|         3        | Which channels have the most views?                                           |
-|         4        | Which channels achieve the highest average views per video?                   |
-|         5        | Which channels have the best views to subscriber ratio?                       |
-|         6        | Which channels display the strongest subscriber engagement rate*?             |  
+|         1        | Kdo jsou nejlepší youtuberi podle počtu odběratelů?                           |
+|         2        | Které kanály vyprodukovaly nejvíce videí?                                     |
+|         3        | Které kanály mají nejvíce zhlédnutí?                                          |
+|         4        | Které kanály dosahují nejvyššího průměrného počtu zhlédnutí na video?         |
+|         5        | Které kanály mají nejlepší poměr počtu zhlédnutí vůči počtu odběratelům?      |
+|         6        | Které kanály vykazují nejsilnější míru zapojení odběratelů*?                  |    
+* *Míra zapojení odběratelů - procento diváků, kteří interagují s obsahem influencera (lajky, komentáře, apod.).*  
 
-**Subsciber engagement rate - the percentage of viewers who interact with the influencer's content*  
-
-These are some initial questions we aim to answer to reach our goal.
+Tohle jsou některé základní otázky, na které budeme snažit odpovědět, abychom dosáhli našeho cíle.
 
 ### Dashboard Visualization
 
