@@ -192,6 +192,7 @@ Cílem je upravit náš dataset tak, aby byl připravený k analýze.
   </tr>
 </table>  
 
+  
 - Data types a column names  
 
 <table>
