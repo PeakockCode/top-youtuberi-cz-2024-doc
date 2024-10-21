@@ -251,7 +251,7 @@ Byly provedeny následující kroky vedoucí k zajištění, aby byl dataset př
 
 ### Vizualizace dat
 
-- Dashboardu v Power BI zobrazuje nejlepší české YouTubery v roce 2024:
+- Dashboardu v Power BI zobrazuje nejlepší české youtubery v roce 2024:
 
 **Obrázek**
 <img src="assets/images/dashboard/TopYouTubers_CZ2024_DashboardImage2.png" alt="obrázek dashboardu"/>  
