@@ -470,9 +470,9 @@ Cílem tohoto scénáře je posoudit rentabilitu **product placements** prostře
 
 <img src="assets/images/sql/analysis/total_subscibers_analysis2.png" alt="1. scénář - výstup" style="border: 0.5px solid black;"/>  
 
-#### 2) Scénář: Spolupráce (na základě video serie) s youtubery (YouTube kanály), kteří nahráli nejvíce videí  
+#### 2) Scénář: Spolupráce (na základě video série) s youtubery (YouTube kanály), kteří nahráli nejvíce videí  
   
-Cílem tohoto scénáře je vyhodnotit rentabilitu video serie, kdy bychom prostřednictvím sponzoringu spolupracovali s youtubery, kteří nahráli nejvíce videí na YouTube. Vybereme tři nejlepší/nejvhodnější youtubery (YouTube kanály).  
+Cílem tohoto scénáře je vyhodnotit rentabilitu video série, kdy bychom prostřednictvím sponzoringu spolupracovali s youtubery, kteří nahráli nejvíce videí na YouTube. Vybereme tři nejlepší/nejvhodnější youtubery (YouTube kanály).  
 
 *Proměnné v 2. scénáři*  
 
