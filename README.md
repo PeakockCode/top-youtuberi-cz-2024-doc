@@ -318,7 +318,7 @@ Hlavní témata jsou:
 
 **1) Kterých 10 youtuberů (kanálů) má nejvíce odběratelů?**  
 
-| Pořadí | Název kanálu                  |   Odběratel (M) |
+| Pořadí | Název kanálu                  |   Odběratelé (M) |
 |--------|-------------------------------|-----------------|
 | 1      | Silvie Mahdal                 |       2.64      |
 | 2      | Puzzle guy                    |       2.56      |
